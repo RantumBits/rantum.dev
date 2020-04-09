@@ -11,10 +11,7 @@ module.exports = {
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
-    {
-      label: 'ecomloop',
-      path: 'https://ecomloop.com'
-    },
+  
     {
       label: 'about',
       path: '/pages/about'
@@ -39,7 +36,6 @@ module.exports = {
       weibo: '',
       codepen: '',
       youtube: '',
-      upwork: '',
       soundcloud: '',
     }
   }
