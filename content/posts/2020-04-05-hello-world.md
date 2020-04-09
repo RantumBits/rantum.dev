@@ -1,7 +1,7 @@
 ---
 template: post
-title: hello world
-slug: hello-world
+title: about me
+slug: about
 draft: false
 date: 2020-04-05T00:36:46.614Z
 description: >
@@ -23,3 +23,5 @@ Strongly believe in developing agency, acting upon curiosity, approaching ideas 
 Most meaningful events occurred long ago and lessons learned should be adapted to new situations.
 
 Incremental progress leads to transformational change. Transformational change defines the future.
+
+:books: :ski: :bike: :tennis: :baseball: :mountain: :pencil:
