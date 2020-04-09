@@ -16,7 +16,7 @@ Web developer and agency owner at [ecomloop](ecomloop.com).  I enjoy using techn
 
 Nantucket-native. Boston College alum. San Francisco Bay Area since 2004.
 
-Being a father of two boys teaches me more about myself than any outside influence.
+Being a father of two boys has taught me more about myself than any outside influence.
 
 Strongly believe in developing agency, acting upon curiosity, approaching ideas with open-mindedness, accepting responsibility and striving for continual self-development.
 
