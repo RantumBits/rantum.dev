@@ -12,8 +12,6 @@ category: general
 tags:
   - about
 ---
-:books: :ski: :bike: :tennis: :baseball: :mountain: :pencil: 
-
 Web developer and agency owner at [ecomloop](ecomloop.com).  I enjoy using technology to make everyday lives incrementally better. 
 
 Nantucket-native. Boston College alum. San Francisco Bay Area since 2004.
@@ -25,3 +23,5 @@ Strongly believe in developing agency, acting upon curiosity, approaching ideas 
 Most meaningful events occurred long ago and lessons learned should be adapted to new situations.
 
 Incremental progress leads to transformational change. Transformational change defines the future.
+
+:books: :ski: :bike: :tennis: :baseball: :mountain: :pencil:
