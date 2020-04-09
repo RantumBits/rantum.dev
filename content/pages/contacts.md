@@ -2,9 +2,9 @@
 template: page
 title: Contact me
 socialImage: /media/image-4.jpg
-slug: contact
+slug: contacts
 draft: false
 ---
-andrew.maury@gmail.com
+see sidebar links
 
 ![]()

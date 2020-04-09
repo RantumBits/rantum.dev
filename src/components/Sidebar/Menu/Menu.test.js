@@ -8,7 +8,7 @@ describe('Menu', () => {
     menu: [
       {
         label: 'Item 0',
-        path: '/#0/'
+        path: '/about/'
       },
       {
         label: 'Item 1',

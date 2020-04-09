@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
   title: 'Andrew Maury',
-  subtitle: '',
+  subtitle: 'web developer and agency owner at [ecomloop](https://ecomloop.com)',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,28 +12,24 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'ecomloop',
+      path: 'https://ecomloop.com'
     },
     {
-      label: 'About me',
+      label: 'about',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.png',
-    bio: '',
+    bio:'utilize technology to make life incrementally better. web developer and agency owner @ecomloop. ',
     contacts: {
-      email: '',
+      email: 'andrew.maury@gmail.com',
       facebook: '',
       telegram: '',
-      twitter: '',
-      github: '',
+      twitter: 'andrewmaury',
+      github: 'ecomloop',
       rss: '',
       vkontakte: '',
       linkedin: '',
@@ -43,6 +39,7 @@ module.exports = {
       weibo: '',
       codepen: '',
       youtube: '',
+      upwork: '',
       soundcloud: '',
     }
   }

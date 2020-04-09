@@ -22,6 +22,8 @@ module.exports = {
         name: 'pages'
       }
     },
+    'gatsby-remark-emoji',
+    'gatsby-remark-external-links',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -109,6 +111,8 @@ module.exports = {
               strict: 'ignore'
             }
           },
+            'gatsby-remark-emoji',  // <-- this line adds emoji
+
           {
             resolve: 'gatsby-remark-images',
             options: {
