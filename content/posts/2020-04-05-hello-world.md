@@ -5,14 +5,16 @@ slug: about
 draft: false
 date: 2020-04-05T00:36:46.614Z
 description: >-
-  Web developer and agency owner at [ecomloop](ecomloop.com).  I enjoy using
+  Web developer and agency owner at [ecomloop](ecomloop.com). I enjoy using
   technology to make everyday lives incrementally better. Nantucket-native.
   Boston College alum. San Francisco Bay Area since 2004.
 category: general
 tags:
   - about
+  - personal
+  - text
 ---
-Web developer and agency owner at [ecomloop](ecomloop.com).  I enjoy using technology to make everyday lives incrementally better. 
+Web developer and agency owner at [ecomloop](ecomloop.com).  I enjoy using technology to make everyday lives incrementally better.
 
 Nantucket-native. Boston College alum. San Francisco Bay Area since 2004.
 
