@@ -11,7 +11,7 @@ module.exports = {
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
-  
+
     {
       label: 'about',
       path: '/pages/about'
