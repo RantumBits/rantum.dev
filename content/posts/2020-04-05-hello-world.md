@@ -8,7 +8,7 @@ description: >-
   Web developer and agency owner at [ecomloop](ecomloop.com). I enjoy using
   technology to make everyday lives incrementally better. Nantucket-native.
   Boston College alum. San Francisco Bay Area since 2004.
-category: general
+category: General
 tags:
   - about
   - personal

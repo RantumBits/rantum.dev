@@ -14,7 +14,15 @@ module.exports = {
 
     {
       label: 'about',
-      path: '/pages/about'
+      path: '/posts/about'
+    },
+    {
+      label: 'journal notes',
+      path: '/category/journal/'
+    },
+    {
+      label: 'shared articles',
+      path: '/category/shared-articles/'
     }
   ],
   author: {
