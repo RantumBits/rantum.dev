@@ -4,7 +4,7 @@ title: Create more output channels
 slug: create-more-output-channels
 draft: false
 date: 2020-04-10T07:14:00
-image: https://drive.google.com/file/d/1DGq_Uup78btp6Pubfwf3603MakkJKeWi/preview?usp=drivesdk
+image: '../images/Create more output channels 2020-04-10T07-14-00.jpeg'
 category: Journal
 tags:
   - output
