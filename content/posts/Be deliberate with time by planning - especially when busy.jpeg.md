@@ -1,10 +1,10 @@
 ---
 template: post
-title: Be deliberate with time by planning - especially when busy.jpeg
-slug: Be deliberate with time by planning - especially when busy.jpeg
+title: Be deliberate with time by planning - especially when busy
+slug: Be deliberate with time by planning - especially when busy
 draft: false
-date: Be deliberate with time by planning - especially when busy.jpeg
-image: https://drive.google.com/file/d/1nG1ln7eoM-nm9sN07EJtoxZEfwexXYzm/preview?usp=drivesdk
+date: 2020-04-13T06:45:12
+image: ../images/Be deliberate with time by planning - especially when busy.jpeg
 category: Journal
 tags:
   - productivity
