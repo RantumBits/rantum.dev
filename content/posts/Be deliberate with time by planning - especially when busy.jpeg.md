@@ -1,7 +1,7 @@
 ---
 template: post
 title: Be deliberate with time by planning - especially when busy
-slug: Be deliberate with time by planning - especially when busy
+slug: be-deliberate-with-time
 draft: false
 date: 2020-04-13T06:45:12
 image: ../images/Be deliberate with time by planning - especially when busy.jpeg

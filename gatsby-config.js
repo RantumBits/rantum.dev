@@ -22,6 +22,28 @@ module.exports = {
         name: 'pages'
       }
     },
+    'gatsby-plugin-react-helmet',
+    {
+    resolve: '@fs/gatsby-plugin-drive',
+    options: {
+      folderId: '1cWn4x0b7W8XkWpd3mNbWIsgE-wHeLyZf',
+      keyFile: `${__dirname}/client_secret.json`,
+      destination: `${__dirname}/content/posts`,
+      exportGDocs: false,
+      exportMimeType: ''
+    }
+    },
+    'gatsby-plugin-react-helmet',
+    {
+    resolve: '@fs/gatsby-plugin-drive',
+    options: {
+      folderId: '1ElariRKvCAMZIukxNe8VmIHSPIIJo_VA',
+      keyFile: `${__dirname}/client_secret.json`,
+      destination: `${__dirname}/static/images`,
+      exportGDocs: false,
+      exportMimeType: ''
+      }
+    },
     'gatsby-remark-emoji',
     'gatsby-remark-external-links',
     {
