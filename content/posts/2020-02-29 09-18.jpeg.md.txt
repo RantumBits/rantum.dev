@@ -1,0 +1,13 @@
+---
+template: post
+title: 2020-02-29 09-18.jpeg
+slug: 2020-02-29 09-18.jpeg
+draft: true
+date: 2020-02-29 09-18.jpeg
+image: https://drive.google.com/file/d/1Mq7lbGItqk5Izp8QPu2Miar9DlMYLup2/preview?usp=drivesdk
+categories:
+ - category: Journal
+ ---
+a daily journal entry
+
+![2020-02-29 09-18.jpeg by Andrew Maury](https://drive.google.com/uc?id=1Mq7lbGItqk5Izp8QPu2Miar9DlMYLup2&export=download)

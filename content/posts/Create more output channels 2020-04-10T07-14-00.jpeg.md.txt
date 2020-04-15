@@ -1,0 +1,16 @@
+---
+template: post
+title: Create more output channels 2020-04-10T07-14-00.jpeg
+slug: Create more output channels 2020-04-10T07-14-00.jpeg
+draft: true
+date: Create more output channels 2020-04-10T07-14-00.jpeg
+image: https://drive.google.com/file/d/1DGq_Uup78btp6Pubfwf3603MakkJKeWi/preview?usp=drivesdk
+category: Journal
+tags:
+  - 
+  - 
+  -
+---
+a daily journal entry
+
+![Create more output channels 2020-04-10T07-14-00.jpeg by Andrew Maury](https://drive.google.com/uc?id=1DGq_Uup78btp6Pubfwf3603MakkJKeWi&export=download)
