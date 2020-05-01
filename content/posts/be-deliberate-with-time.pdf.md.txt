@@ -1,0 +1,17 @@
+---
+template: post
+title: be-deliberate-with-time.pdf
+slug: be-deliberate-with-time.pdf
+draft: true
+date: 2020-04-17T07:19:17-07:00
+image: /images/be-deliberate-with-time.pdf
+category: Journal
+description: be-deliberate-with-time.pdf
+tags:
+  - 
+  - 
+  -
+---
+be-deliberate-with-time.pdf
+
+![be-deliberate-with-time.pdf by Andrew Maury](/images/be-deliberate-with-time.pdf)

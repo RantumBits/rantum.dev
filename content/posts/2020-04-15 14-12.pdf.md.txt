@@ -1,0 +1,17 @@
+---
+template: post
+title: 2020-04-15 14-12.pdf
+slug: 2020-04-15 14-12.pdf
+draft: true
+date: 2020-04-15T14:17:08-07:00
+image: /images/2020-04-15 14-12.pdf
+category: Journal
+description: 2020-04-15 14-12.pdf
+tags:
+  - 
+  - 
+  -
+---
+2020-04-15 14-12.pdf
+
+![2020-04-15 14-12.pdf by Andrew Maury](/images/2020-04-15 14-12.pdf)

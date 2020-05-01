@@ -1,0 +1,17 @@
+---
+template: post
+title: writing-in-ink.pdf
+slug: writing-in-ink.pdf
+draft: true
+date: 2020-04-21T07:15:52-07:00
+image: /images/writing-in-ink.pdf
+category: Journal
+description: writing-in-ink.pdf
+tags:
+  - 
+  - 
+  -
+---
+writing-in-ink.pdf
+
+![writing-in-ink.pdf by Andrew Maury](/images/writing-in-ink.pdf)

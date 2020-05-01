@@ -1,0 +1,16 @@
+---
+template: post
+title: Drawing day 2.pdf
+slug: Drawing day 2.pdf
+draft: true
+date: Drawing day 2.pdf
+image: https://drive.google.com/file/d/10MQ1LCNMLFeb1E_Kr6ZbujMsKkEh_ygm/preview?usp=drivesdk
+category: Journal
+tags:
+  - 
+  - 
+  -
+---
+a daily journal entry
+
+![Drawing day 2.pdf by Andrew Maury](https://drive.google.com/file/d/10MQ1LCNMLFeb1E_Kr6ZbujMsKkEh_ygm/view?usp=drivesdk)

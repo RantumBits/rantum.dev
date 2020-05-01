@@ -10,15 +10,8 @@ const Author = () => {
   return (
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
-        {author.bio}
-        <a
-          className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.twitter)}
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          <strong>{author.name}</strong> on Twitter
-        </a>
+        <strong>andrew maury</strong><br/>
+        Web developer and agency owner at <a href="https://ecomloop.com">ecomloop</a>.<br/> I enjoy using technology to make everyday life incrementally better.<br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝
       </p>
     </div>
   );

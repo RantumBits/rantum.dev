@@ -1,0 +1,17 @@
+---
+template: post
+title: publish-to-improve-ideas.jpeg
+slug: publish-to-improve-ideas.jpeg
+draft: true
+date: 2020-04-21T07:15:52-07:00
+image: /images/publish-to-improve-ideas.jpeg
+category: Journal
+description: publish-to-improve-ideas.jpeg
+tags:
+  - 
+  - 
+  -
+---
+publish-to-improve-ideas.jpeg
+
+![publish-to-improve-ideas.jpeg by Andrew Maury](/images/publish-to-improve-ideas.jpeg)

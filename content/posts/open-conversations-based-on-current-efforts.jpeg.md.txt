@@ -1,0 +1,17 @@
+---
+template: post
+title: open-conversations-based-on-current-efforts.jpeg
+slug: open-conversations-based-on-current-efforts.jpeg
+draft: true
+date: 2020-04-24T08:09:15-07:00
+image: /images/open-conversations-based-on-current-efforts.jpeg
+category: Journal
+description: open-conversations-based-on-current-efforts.jpeg
+tags:
+  - 
+  - 
+  -
+---
+open-conversations-based-on-current-efforts.jpeg
+
+![open-conversations-based-on-current-efforts.jpeg by Andrew Maury](/images/open-conversations-based-on-current-efforts.jpeg)

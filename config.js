@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-25962239-1',
   useKatex: false,
   menu: [
 
@@ -28,14 +28,14 @@ module.exports = {
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.png',
-    bio:'utilize technology to make life incrementally better. web developer and agency owner @ecomloop. ',
+    bio:'i utilize technology to make everyday life incrementally better. web developer and agency owner ecomloop.com ',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'andrewmaury',
       github: 'ecomloop',
-      rss: '',
+      rss: '/rss.xml',
       vkontakte: '',
       linkedin: '',
       instagram: '',

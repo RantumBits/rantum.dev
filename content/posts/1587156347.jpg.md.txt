@@ -1,0 +1,17 @@
+---
+template: post
+title: 1587156347.jpg
+slug: 1587156347.jpg
+draft: true
+date: 2020-04-17T17:11:08-07:00
+image: /images/1587156347.jpg
+category: Journal
+description: 1587156347.jpg
+tags:
+  - 
+  - 
+  -
+---
+1587156347.jpg
+
+![1587156347.jpg by Andrew Maury](/images/1587156347.jpg)

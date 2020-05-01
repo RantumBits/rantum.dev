@@ -1,0 +1,17 @@
+---
+template: post
+title: find-common-ground-build-momentum-towards-solution.jpeg
+slug: find-common-ground-build-momentum-towards-solution.jpeg
+draft: true
+date: 2020-04-28T07:35:20-07:00
+image: /images/find-common-ground-build-momentum-towards-solution.jpeg
+category: Journal
+description: find-common-ground-build-momentum-towards-solution.jpeg
+tags:
+  - 
+  - 
+  -
+---
+find-common-ground-build-momentum-towards-solution.jpeg
+
+![find-common-ground-build-momentum-towards-solution.jpeg by Andrew Maury](/images/find-common-ground-build-momentum-towards-solution.jpeg)

@@ -1,0 +1,17 @@
+---
+template: post
+title: publish-to-improve-ideas.pdf
+slug: publish-to-improve-ideas.pdf
+draft: true
+date: 2020-04-21T07:15:53-07:00
+image: /images/publish-to-improve-ideas.pdf
+category: Journal
+description: publish-to-improve-ideas.pdf
+tags:
+  - 
+  - 
+  -
+---
+publish-to-improve-ideas.pdf
+
+![publish-to-improve-ideas.pdf by Andrew Maury](/images/publish-to-improve-ideas.pdf)
