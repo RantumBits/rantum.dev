@@ -44,6 +44,17 @@ module.exports = {
       exportMimeType: ''
       }
     },
+    'gatsby-plugin-react-helmet',
+    {
+    resolve: '@fs/gatsby-plugin-drive',
+    options: {
+      folderId: '1BwLbsem2DQuoyzhgisljMlhvvywWc3na',
+      keyFile: `${__dirname}/client_secret.json`,
+      destination: `${__dirname}/static/photos`,
+      exportGDocs: false,
+      exportMimeType: ''
+      }
+    },
     'gatsby-remark-emoji',
     'gatsby-remark-external-links',
     {
@@ -111,6 +122,7 @@ module.exports = {
                         template
                         draft
                         description
+                        featuredImage
                       }
                     }
                   }

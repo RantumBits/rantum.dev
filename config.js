@@ -20,15 +20,12 @@ module.exports = {
       label: 'journal notes',
       path: '/category/journal/'
     },
-    {
-      label: 'shared articles',
-      path: '/category/shared-articles/'
-    }
+
   ],
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.png',
-    bio:'i utilize technology to make everyday life incrementally better. web developer and agency owner ecomloop.com ',
+    bio:'i utilize technology to make everyday life incrementally better. web developer and agency owner @[ecomloop](https://ecomloop.com)',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',
@@ -37,7 +34,7 @@ module.exports = {
       github: 'ecomloop',
       rss: '/rss.xml',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'andrewmaury',
       instagram: '',
       line: '',
       gitlab: '',

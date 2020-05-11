@@ -1,0 +1,17 @@
+---
+template: post
+title: 2020-04-10.png
+slug: 2020-04-10.png
+draft: true
+date: 2020-05-05T12:02:27-07:00
+image: /images/2020-04-10.png
+category: Journal
+description: 2020-04-10.png
+tags:
+  - 
+  - 
+  -
+---
+2020-04-10.png
+
+![2020-04-10.png by Andrew Maury](/images/2020-04-10.png)

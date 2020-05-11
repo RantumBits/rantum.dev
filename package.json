@@ -1,7 +1,7 @@
 {
-  "version": "3.0.3",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "version": "3.3.0",
+  "name": "andrewmaury.com",
+  "description": "andrew maury personal site",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -16,9 +16,9 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
-  "license": "MIT",
+  "repository": "https://github.com/ecomloop/afm",
+  "author": "Andrew Maury <andrew@ecomloop>",
+  "license": "",
   "keywords": [
     "gatsby",
     "graphql",
