@@ -2,6 +2,11 @@
 @import '../../assets/scss/mixins';
 
 .post {
+  &__content {
+    float: left;
+    clear: none;
+  }
+
   &__footer {
     max-width: $layout-post-width;
     margin: 0 auto;

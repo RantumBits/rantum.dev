@@ -1,0 +1,19 @@
+---
+template: post
+title: Acknowledge common desires work backwards towards understanding actions
+slug: acknowledge-common-desires-work-backwards-through-methods
+draft: false
+date: 2020-05-10T18:38:10-07:00
+image: /images/acknowledge-common-desires-work-backwards-through-methods.jpeg
+featuredImage: /photos/2020-05-10.png
+category: Journal
+description: Acknowledge common desires work backwards towards understanding actions
+tags:
+  - resolution
+  - equanimity
+  - social
+---
+Acknowledge common desires work backwards towards understanding actions.
+
+
+![acknowledge-common-desires-work-backwards-through-methods.jpeg by Andrew Maury](/images/acknowledge-common-desires-work-backwards-through-methods.jpeg)

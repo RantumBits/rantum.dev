@@ -1,0 +1,18 @@
+---
+template: post
+title: approach-activities-joy-excitement.jpeg
+slug: approach-activities-joy-excitement.jpeg
+draft: true
+date: 2020-05-09T08:25:15-07:00
+image: /images/approach-activities-joy-excitement.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: approach-activities-joy-excitement.jpeg
+tags:
+  - 
+  - 
+  -
+---
+approach-activities-joy-excitement.jpeg
+
+![approach-activities-joy-excitement.jpeg by Andrew Maury](/images/approach-activities-joy-excitement.jpeg)

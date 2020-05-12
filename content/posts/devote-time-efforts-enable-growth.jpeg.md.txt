@@ -1,0 +1,18 @@
+---
+template: post
+title: devote-time-efforts-enable-growth.jpeg
+slug: devote-time-efforts-enable-growth.jpeg
+draft: true
+date: 2020-05-12T07:26:39-07:00
+image: /images/devote-time-efforts-enable-growth.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: devote-time-efforts-enable-growth.jpeg
+tags:
+  - 
+  - 
+  -
+---
+devote-time-efforts-enable-growth.jpeg
+
+![devote-time-efforts-enable-growth.jpeg by Andrew Maury](/images/devote-time-efforts-enable-growth.jpeg)

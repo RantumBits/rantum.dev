@@ -27,12 +27,14 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
 
   const { edges } = data.allMarkdownRemark;
+  const featuredEdges = data.featuredposts.edges;
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
       <Page>
+        <Feed edges={featuredEdges} />
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
@@ -69,6 +71,30 @@ export const query = graphql`
         }
       }
     }
+
+    featuredposts: allMarkdownRemark(
+        limit: $postsLimit,
+        skip: $postsOffset,
+        filter: { frontmatter: { template: { eq: "post" }, category: {eq: "Featured"}, draft: { ne: true } } },
+        sort: { order: DESC, fields: [frontmatter___date] }
+      ){
+      edges {
+        node {
+          fields {
+            slug
+            categorySlug
+          }
+          frontmatter {
+            title
+            date
+            category
+            description
+            featuredImage
+          }
+        }
+      }
+    }
+
   }
 `;
 

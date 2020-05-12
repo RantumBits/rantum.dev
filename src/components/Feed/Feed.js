@@ -22,6 +22,9 @@ const Feed = ({ edges }: Props) => (
             <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
           </span>
         </div>
+        {edge.node.frontmatter.featuredImage &&
+            <img src={edge.node.frontmatter.featuredImage} alt={edge.node.frontmatter.title} />
+        }
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
         </h2>
