@@ -4,17 +4,17 @@
 
 // Colors
 $color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+$color-primary: #F05e23;
+$color-secondary: #1167B1;
 
 $color-white: #FFF;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@577&family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Jost:wght@400&display=swap');
 // Typographic
-$typographic-font-family: Inconsolata, Consolas, Monospace;
-$typographic-header-family: 'Montserrat', sans-serif;
+$typographic-font-family: 'Fira Code', monospace;
+$typographic-header-family: 'Jost', sans-serif;
 
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;

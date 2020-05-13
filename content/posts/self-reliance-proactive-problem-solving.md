@@ -6,7 +6,7 @@ draft: false
 date: 2020-05-08T07:17:51-07:00
 image: /images/self-reliance-proactive-problem-solving.jpeg
 featuredImage: /photos/2020-05-08.png
-category: Featured
+category: General
 description: Self-reliance doesn't necessarily mean doing everythign on your own. It's infeasible to be an expert in everything and making that a requirement will imppose limits.
 tags:
   - self-reliance

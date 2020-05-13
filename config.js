@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Andrew Maury',
-    photo: '/andrew-maury.png',
+    photo: '/andrew-maury.jpg',
     bio:'i utilize technology to make everyday life incrementally better. web developer and agency owner @[ecomloop](https://ecomloop.com)',
     contacts: {
       email: 'andrew.maury@gmail.com',

@@ -1,0 +1,18 @@
+---
+template: post
+title: approach-projects-with-open-learning-mindset.jpeg
+slug: approach-projects-with-open-learning-mindset.jpeg
+draft: true
+date: 2020-05-13T07:31:36-07:00
+image: /images/approach-projects-with-open-learning-mindset.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: approach-projects-with-open-learning-mindset.jpeg
+tags:
+  - 
+  - 
+  -
+---
+approach-projects-with-open-learning-mindset.jpeg
+
+![approach-projects-with-open-learning-mindset.jpeg by Andrew Maury](/images/approach-projects-with-open-learning-mindset.jpeg)
