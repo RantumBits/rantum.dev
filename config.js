@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
   title: 'Andrew Maury',
-  subtitle: 'web developer and agency owner at [ecomloop](https://ecomloop.com)',
+  subtitle: 'web developer and agency owner at ecomloop',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -17,7 +17,7 @@ module.exports = {
       path: '/posts/about'
     },
     {
-      label: 'journal notes',
+      label: 'notes to self',
       path: '/category/journal/'
     },
 
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.jpg',
-    bio:'i utilize technology to make everyday life incrementally better. web developer and agency owner @[ecomloop](https://ecomloop.com)',
+    bio:'I utilize technology to make everyday life incrementally better. web developer and owner @ecomloop',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',
