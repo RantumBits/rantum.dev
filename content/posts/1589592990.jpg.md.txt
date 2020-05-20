@@ -1,0 +1,18 @@
+---
+template: post
+title: 1589592990.jpg
+slug: 1589592990.jpg
+draft: true
+date: 2020-05-15T20:41:28-07:00
+image: /images/1589592990.jpg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: 1589592990.jpg
+tags:
+  - 
+  - 
+  -
+---
+1589592990.jpg
+
+![1589592990.jpg by Andrew Maury](/images/1589592990.jpg)

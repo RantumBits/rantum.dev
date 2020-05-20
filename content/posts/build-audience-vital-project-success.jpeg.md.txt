@@ -1,0 +1,18 @@
+---
+template: post
+title: build-audience-vital-project-success.jpeg
+slug: build-audience-vital-project-success.jpeg
+draft: true
+date: 2020-05-20T07:32:36-07:00
+image: /images/build-audience-vital-project-success.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: build-audience-vital-project-success.jpeg
+tags:
+  - 
+  - 
+  -
+---
+build-audience-vital-project-success.jpeg
+
+![build-audience-vital-project-success.jpeg by Andrew Maury](/images/build-audience-vital-project-success.jpeg)

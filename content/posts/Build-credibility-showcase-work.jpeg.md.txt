@@ -1,0 +1,18 @@
+---
+template: post
+title: Build-credibility-showcase-work.jpeg
+slug: Build-credibility-showcase-work.jpeg
+draft: true
+date: 2020-05-18T07:41:40-07:00
+image: /images/Build-credibility-showcase-work.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: Build-credibility-showcase-work.jpeg
+tags:
+  - 
+  - 
+  -
+---
+Build-credibility-showcase-work.jpeg
+
+![Build-credibility-showcase-work.jpeg by Andrew Maury](/images/Build-credibility-showcase-work.jpeg)
