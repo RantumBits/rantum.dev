@@ -1,0 +1,18 @@
+---
+template: post
+title: let-nature-relax-influence-mind.jpeg
+slug: let-nature-relax-influence-mind.jpeg
+draft: true
+date: 2020-05-27T07:01:33-07:00
+image: /images/let-nature-relax-influence-mind.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: let-nature-relax-influence-mind.jpeg
+tags:
+  - 
+  - 
+  -
+---
+let-nature-relax-influence-mind.jpeg
+
+![let-nature-relax-influence-mind.jpeg by Andrew Maury](/images/let-nature-relax-influence-mind.jpeg)

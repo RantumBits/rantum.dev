@@ -1,0 +1,18 @@
+---
+template: post
+title: assume-good-intentions.jpeg
+slug: assume-good-intentions.jpeg
+draft: true
+date: 2020-05-25T09:04:20-07:00
+image: /images/assume-good-intentions.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: assume-good-intentions.jpeg
+tags:
+  - 
+  - 
+  -
+---
+assume-good-intentions.jpeg
+
+![assume-good-intentions.jpeg by Andrew Maury](/images/assume-good-intentions.jpeg)

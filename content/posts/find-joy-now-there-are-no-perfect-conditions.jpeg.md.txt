@@ -1,0 +1,18 @@
+---
+template: post
+title: find-joy-now-there-are-no-perfect-conditions.jpeg
+slug: find-joy-now-there-are-no-perfect-conditions.jpeg
+draft: true
+date: 2020-05-22T08:44:44-07:00
+image: /images/find-joy-now-there-are-no-perfect-conditions.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: find-joy-now-there-are-no-perfect-conditions.jpeg
+tags:
+  - 
+  - 
+  -
+---
+find-joy-now-there-are-no-perfect-conditions.jpeg
+
+![find-joy-now-there-are-no-perfect-conditions.jpeg by Andrew Maury](/images/find-joy-now-there-are-no-perfect-conditions.jpeg)
