@@ -7,7 +7,7 @@ date: 2020-05-20T07:32:36-07:00
 image: /images/build-audience-vital-project-success.jpeg
 featuredImage: /photos/2020-05-20.png
 category: Journal
-description: build-audience-vital-project-success.jpeg
+description: It's not wrong to build an audience - in the physical or digital worlds. It can be looked at as vain and done in the wrong way. 
 tags:
   - detachment
   - social
