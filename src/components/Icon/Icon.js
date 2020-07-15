@@ -12,7 +12,7 @@ type Props = {
 
 const Icon = ({ name, icon }: Props) => (
   <svg className={styles['icon']} viewBox={icon.viewBox}>
-    <title>{name}</title>
+    <icontitle>{name}</icontitle>
     <path d={icon.path} />
   </svg>
 );
