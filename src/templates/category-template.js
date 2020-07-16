@@ -8,6 +8,7 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
 import type { PageContext, AllMarkdownRemark } from '../types';
+import _ from 'lodash';
 
 type Props = {
   data: AllMarkdownRemark,
@@ -16,7 +17,7 @@ type Props = {
 
 const CategoryTemplate = ({ data, pageContext }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
-
+  
   const {
     category,
     currentPage,
@@ -28,9 +29,11 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0 ? `${category} - Page ${currentPage} - ${siteTitle}` : `${category} - ${siteTitle}`;
+  const canonicalUrl = `/category/${_.kebabCase(category)}/`
+  const description = `all posts in the ${category} category on ${siteTitle}`;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
+    <Layout title={pageTitle} description={description} canonicalUrl={canonicalUrl}>
       <Sidebar />
       <Page title={category}>
         <Feed edges={edges} />

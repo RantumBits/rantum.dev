@@ -17,7 +17,8 @@ const Layout = ({
   children,
   title,
   description,
-  socialImage
+  socialImage,
+  canonicalUrl
 }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
@@ -35,6 +36,9 @@ const Layout = ({
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
+        {canonicalUrl &&
+          <link rel="canonical" href={url + canonicalUrl} />
+        }
       </Helmet>
       {children}
     </div>
