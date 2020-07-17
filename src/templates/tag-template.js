@@ -28,10 +28,11 @@ const TagTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0 ? `All Posts tagged as "${tag}" - Page ${currentPage} - ${siteTitle}` : `All Posts tagged as "${tag}" - ${siteTitle}`;
-  const description = `all posts in the ${tag} category on ${siteTitle}`;
+  const canonicalUrl = currentPage > 0 ? `/tag/${_.kebabCase(tag)}/` : null;
+  const description = `all posts related to ${tag} on ${siteTitle}`;
 
   return (
-    <Layout title={pageTitle} description={description}>
+    <Layout title={pageTitle} description={description} canonicalUrl={canonicalUrl}>
       <Sidebar />
       <Page title={tag}>
         <Feed edges={edges} />

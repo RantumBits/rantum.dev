@@ -29,7 +29,7 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0 ? `${category} - Page ${currentPage} - ${siteTitle}` : `${category} - ${siteTitle}`;
-  const canonicalUrl = `/category/${_.kebabCase(category)}/`
+  const canonicalUrl = currentPage > 0 ? `/category/${_.kebabCase(category)}/` : null;
   const description = `all posts in the ${category} category on ${siteTitle}`;
 
   return (
