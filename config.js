@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
-  title: 'Andrew Maury : cynical optimist of technology advances',
-  subtitle: 'cynical optimist of technology advances',
+  title: 'Andrew Maury',
+  subtitle: 'ecommerce consultant & agency owner @ecomloop // cynical optimist in technology advances',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 7,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.jpg',
-    bio:'Cynical optimist of technology advances. I utilize technology to make everyday life incrementally better. ',
+    bio:'ecommerce consultant + agency owner at @ecomloop // cynical optimist regarding incremental technology advances  // 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',
