@@ -28,9 +28,9 @@ const Layout = ({
     <div className={styles.layout}>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
+        <title>{title} {subtitle}</title>
         <meta name="description" content={description} />
-        <meta property="og:site_name" content={title} />
+        <meta property="og:site_name" content={title} {subtitle} />
         <meta property="og:image" content={metaImageUrl} />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
