@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
-  title: 'Andrew Maury',
-  subtitle: 'web developer and agency owner at ecomloop',
+  title: 'Andrew Maury : cynical optimist of technology advances',
+  subtitle: 'cynical optimist of technology advances',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 7,
   googleAnalyticsId: 'UA-25962239-1',
   useKatex: false,
   menu: [
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.jpg',
-    bio:'I utilize technology to make everyday life incrementally better. web developer and owner @ecomloop',
+    bio:'Cynical optimist of technology advances. I utilize technology to make everyday life incrementally better. ',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',
