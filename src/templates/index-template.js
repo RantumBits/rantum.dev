@@ -28,10 +28,11 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const featuredEdges = data.featuredposts.edges;
-  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
+  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle + " // " + siteSubtitle;
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
+      
       <Sidebar isIndex />
       <Page>
         <Feed edges={featuredEdges} />

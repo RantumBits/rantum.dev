@@ -27,11 +27,12 @@ const Layout = ({
   const metaImageUrl = url + withPrefix(metaImage);
   const { subtitle: siteSubtitle } = useSiteMetadata();
 
+
   return (
     <div className={styles.layout}>
       <Helmet>
         <html lang="en" />
-        <title>{title} // {siteSubtitle}</title>
+        <title>{title}</title>
         <meta name="description" content={description} />
         <meta property="og:site_name" content={title} />
         <meta property="og:image" content={metaImageUrl} />
