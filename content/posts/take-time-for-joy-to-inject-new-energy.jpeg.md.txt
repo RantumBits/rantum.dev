@@ -1,0 +1,18 @@
+---
+template: post
+title: take-time-for-joy-to-inject-new-energy.jpeg
+slug: take-time-for-joy-to-inject-new-energy.jpeg
+draft: true
+date: 2020-06-11T07:04:38-07:00
+image: /images/take-time-for-joy-to-inject-new-energy.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: take-time-for-joy-to-inject-new-energy.jpeg
+tags:
+  - 
+  - 
+  -
+---
+take-time-for-joy-to-inject-new-energy.jpeg
+
+![take-time-for-joy-to-inject-new-energy.jpeg by Andrew Maury](/images/take-time-for-joy-to-inject-new-energy.jpeg)

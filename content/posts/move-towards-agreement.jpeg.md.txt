@@ -1,0 +1,18 @@
+---
+template: post
+title: move-towards-agreement.jpeg
+slug: move-towards-agreement.jpeg
+draft: true
+date: 2020-07-14T07:15:48-07:00
+image: /images/move-towards-agreement.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: move-towards-agreement.jpeg
+tags:
+  - 
+  - 
+  -
+---
+move-towards-agreement.jpeg
+
+![move-towards-agreement.jpeg by Andrew Maury](/images/move-towards-agreement.jpeg)

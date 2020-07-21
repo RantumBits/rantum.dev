@@ -1,0 +1,18 @@
+---
+template: post
+title: develop-list-of-virtues-guide-life.jpeg
+slug: develop-list-of-virtues-guide-life.jpeg
+draft: true
+date: 2020-07-21T08:56:59-07:00
+image: /images/develop-list-of-virtues-guide-life.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: develop-list-of-virtues-guide-life.jpeg
+tags:
+  - 
+  - 
+  -
+---
+develop-list-of-virtues-guide-life.jpeg
+
+![develop-list-of-virtues-guide-life.jpeg by Andrew Maury](/images/develop-list-of-virtues-guide-life.jpeg)

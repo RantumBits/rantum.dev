@@ -1,0 +1,18 @@
+---
+template: post
+title: machines-should-not-be-feared.jpeg
+slug: machines-should-not-be-feared.jpeg
+draft: true
+date: 2020-07-20T07:21:58-07:00
+image: /images/machines-should-not-be-feared.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: machines-should-not-be-feared.jpeg
+tags:
+  - 
+  - 
+  -
+---
+machines-should-not-be-feared.jpeg
+
+![machines-should-not-be-feared.jpeg by Andrew Maury](/images/machines-should-not-be-feared.jpeg)

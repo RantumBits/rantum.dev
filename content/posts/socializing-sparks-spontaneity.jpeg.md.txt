@@ -1,0 +1,18 @@
+---
+template: post
+title: socializing-sparks-spontaneity.jpeg
+slug: socializing-sparks-spontaneity.jpeg
+draft: true
+date: 2020-07-17T08:27:07-07:00
+image: /images/socializing-sparks-spontaneity.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: socializing-sparks-spontaneity.jpeg
+tags:
+  - 
+  - 
+  -
+---
+socializing-sparks-spontaneity.jpeg
+
+![socializing-sparks-spontaneity.jpeg by Andrew Maury](/images/socializing-sparks-spontaneity.jpeg)

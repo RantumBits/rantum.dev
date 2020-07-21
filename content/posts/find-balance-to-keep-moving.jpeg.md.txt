@@ -1,0 +1,18 @@
+---
+template: post
+title: find-balance-to-keep-moving.jpeg
+slug: find-balance-to-keep-moving.jpeg
+draft: true
+date: 2020-06-09T08:24:43-07:00
+image: /images/find-balance-to-keep-moving.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: find-balance-to-keep-moving.jpeg
+tags:
+  - 
+  - 
+  -
+---
+find-balance-to-keep-moving.jpeg
+
+![find-balance-to-keep-moving.jpeg by Andrew Maury](/images/find-balance-to-keep-moving.jpeg)

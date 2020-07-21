@@ -1,0 +1,18 @@
+---
+template: post
+title: harness-technology-to-increase-effective-efforts.jpeg
+slug: harness-technology-to-increase-effective-efforts.jpeg
+draft: true
+date: 2020-06-01T07:31:24-07:00
+image: /images/harness-technology-to-increase-effective-efforts.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: harness-technology-to-increase-effective-efforts.jpeg
+tags:
+  - 
+  - 
+  -
+---
+harness-technology-to-increase-effective-efforts.jpeg
+
+![harness-technology-to-increase-effective-efforts.jpeg by Andrew Maury](/images/harness-technology-to-increase-effective-efforts.jpeg)

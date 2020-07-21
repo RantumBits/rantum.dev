@@ -1,0 +1,18 @@
+---
+template: post
+title: accept-faults-and-work-towards-better.jpeg
+slug: accept-faults-and-work-towards-better.jpeg
+draft: true
+date: 2020-06-05T07:36:09-07:00
+image: /images/accept-faults-and-work-towards-better.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: accept-faults-and-work-towards-better.jpeg
+tags:
+  - 
+  - 
+  -
+---
+accept-faults-and-work-towards-better.jpeg
+
+![accept-faults-and-work-towards-better.jpeg by Andrew Maury](/images/accept-faults-and-work-towards-better.jpeg)

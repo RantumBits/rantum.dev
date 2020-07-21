@@ -1,0 +1,18 @@
+---
+template: post
+title: make-joy-in-present-surroundings.jpeg
+slug: make-joy-in-present-surroundings.jpeg
+draft: true
+date: 2020-06-07T09:34:41-07:00
+image: /images/make-joy-in-present-surroundings.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: make-joy-in-present-surroundings.jpeg
+tags:
+  - 
+  - 
+  -
+---
+make-joy-in-present-surroundings.jpeg
+
+![make-joy-in-present-surroundings.jpeg by Andrew Maury](/images/make-joy-in-present-surroundings.jpeg)

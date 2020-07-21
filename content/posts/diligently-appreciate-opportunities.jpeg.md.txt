@@ -1,0 +1,18 @@
+---
+template: post
+title: diligently-appreciate-opportunities.jpeg
+slug: diligently-appreciate-opportunities.jpeg
+draft: true
+date: 2020-07-05T10:14:45-07:00
+image: /images/diligently-appreciate-opportunities.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: diligently-appreciate-opportunities.jpeg
+tags:
+  - 
+  - 
+  -
+---
+diligently-appreciate-opportunities.jpeg
+
+![diligently-appreciate-opportunities.jpeg by Andrew Maury](/images/diligently-appreciate-opportunities.jpeg)

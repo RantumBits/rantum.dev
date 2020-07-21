@@ -1,0 +1,18 @@
+---
+template: post
+title: time-to-act-upon-virtues.jpeg
+slug: time-to-act-upon-virtues.jpeg
+draft: true
+date: 2020-06-06T09:21:07-07:00
+image: /images/time-to-act-upon-virtues.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: time-to-act-upon-virtues.jpeg
+tags:
+  - 
+  - 
+  -
+---
+time-to-act-upon-virtues.jpeg
+
+![time-to-act-upon-virtues.jpeg by Andrew Maury](/images/time-to-act-upon-virtues.jpeg)

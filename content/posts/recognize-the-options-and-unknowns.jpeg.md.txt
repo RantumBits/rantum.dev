@@ -1,0 +1,18 @@
+---
+template: post
+title: recognize-the-options-and-unknowns.jpeg
+slug: recognize-the-options-and-unknowns.jpeg
+draft: true
+date: 2020-06-28T10:17:16-07:00
+image: /images/recognize-the-options-and-unknowns.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: recognize-the-options-and-unknowns.jpeg
+tags:
+  - 
+  - 
+  -
+---
+recognize-the-options-and-unknowns.jpeg
+
+![recognize-the-options-and-unknowns.jpeg by Andrew Maury](/images/recognize-the-options-and-unknowns.jpeg)

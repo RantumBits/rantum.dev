@@ -1,0 +1,18 @@
+---
+template: post
+title: harness-technology-for-positive-effects.jpeg
+slug: harness-technology-for-positive-effects.jpeg
+draft: true
+date: 2020-07-06T10:22:26-07:00
+image: /images/harness-technology-for-positive-effects.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: harness-technology-for-positive-effects.jpeg
+tags:
+  - 
+  - 
+  -
+---
+harness-technology-for-positive-effects.jpeg
+
+![harness-technology-for-positive-effects.jpeg by Andrew Maury](/images/harness-technology-for-positive-effects.jpeg)

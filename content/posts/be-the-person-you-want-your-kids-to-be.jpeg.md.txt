@@ -1,0 +1,18 @@
+---
+template: post
+title: be-the-person-you-want-your-kids-to-be.jpeg
+slug: be-the-person-you-want-your-kids-to-be.jpeg
+draft: true
+date: 2020-06-21T09:30:15-07:00
+image: /images/be-the-person-you-want-your-kids-to-be.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: be-the-person-you-want-your-kids-to-be.jpeg
+tags:
+  - 
+  - 
+  -
+---
+be-the-person-you-want-your-kids-to-be.jpeg
+
+![be-the-person-you-want-your-kids-to-be.jpeg by Andrew Maury](/images/be-the-person-you-want-your-kids-to-be.jpeg)

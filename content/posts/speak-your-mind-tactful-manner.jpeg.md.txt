@@ -1,0 +1,18 @@
+---
+template: post
+title: speak-your-mind-tactful-manner.jpeg
+slug: speak-your-mind-tactful-manner.jpeg
+draft: true
+date: 2020-05-29T08:20:59-07:00
+image: /images/speak-your-mind-tactful-manner.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: speak-your-mind-tactful-manner.jpeg
+tags:
+  - 
+  - 
+  -
+---
+speak-your-mind-tactful-manner.jpeg
+
+![speak-your-mind-tactful-manner.jpeg by Andrew Maury](/images/speak-your-mind-tactful-manner.jpeg)

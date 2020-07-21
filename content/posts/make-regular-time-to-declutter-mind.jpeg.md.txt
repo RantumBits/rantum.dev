@@ -1,0 +1,18 @@
+---
+template: post
+title: make-regular-time-to-declutter-mind.jpeg
+slug: make-regular-time-to-declutter-mind.jpeg
+draft: true
+date: 2020-06-18T06:25:59-07:00
+image: /images/make-regular-time-to-declutter-mind.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: make-regular-time-to-declutter-mind.jpeg
+tags:
+  - 
+  - 
+  -
+---
+make-regular-time-to-declutter-mind.jpeg
+
+![make-regular-time-to-declutter-mind.jpeg by Andrew Maury](/images/make-regular-time-to-declutter-mind.jpeg)

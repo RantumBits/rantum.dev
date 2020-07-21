@@ -1,0 +1,18 @@
+---
+template: post
+title: prioritize-impactful-projects.jpeg
+slug: prioritize-impactful-projects.jpeg
+draft: true
+date: 2020-07-18T09:22:17-07:00
+image: /images/prioritize-impactful-projects.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: prioritize-impactful-projects.jpeg
+tags:
+  - 
+  - 
+  -
+---
+prioritize-impactful-projects.jpeg
+
+![prioritize-impactful-projects.jpeg by Andrew Maury](/images/prioritize-impactful-projects.jpeg)

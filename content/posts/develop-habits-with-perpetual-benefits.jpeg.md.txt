@@ -1,0 +1,18 @@
+---
+template: post
+title: develop-habits-with-perpetual-benefits.jpeg
+slug: develop-habits-with-perpetual-benefits.jpeg
+draft: true
+date: 2020-07-08T16:30:45-07:00
+image: /images/develop-habits-with-perpetual-benefits.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: develop-habits-with-perpetual-benefits.jpeg
+tags:
+  - 
+  - 
+  -
+---
+develop-habits-with-perpetual-benefits.jpeg
+
+![develop-habits-with-perpetual-benefits.jpeg by Andrew Maury](/images/develop-habits-with-perpetual-benefits.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: equality-and-optimism.jpeg
+slug: equality-and-optimism.jpeg
+draft: true
+date: 2020-06-03T07:37:04-07:00
+image: /images/equality-and-optimism.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: equality-and-optimism.jpeg
+tags:
+  - 
+  - 
+  -
+---
+equality-and-optimism.jpeg
+
+![equality-and-optimism.jpeg by Andrew Maury](/images/equality-and-optimism.jpeg)

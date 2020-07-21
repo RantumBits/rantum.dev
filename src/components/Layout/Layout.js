@@ -9,6 +9,7 @@ import styles from './Layout.module.scss';
 type Props = {
   children: ReactNode,
   title: string,
+  subtitle: string,
   description?: string,
   socialImage? :string
 };
@@ -16,6 +17,7 @@ type Props = {
 const Layout = ({
   children,
   title,
+  subtitle,
   description,
   socialImage,
   canonicalUrl
@@ -23,14 +25,15 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
   const metaImageUrl = url + withPrefix(metaImage);
+  const { subtitle: siteSubtitle } = useSiteMetadata();
 
   return (
     <div className={styles.layout}>
       <Helmet>
         <html lang="en" />
-        <title>{title} {subtitle}</title>
+        <title>{title} // {siteSubtitle}</title>
         <meta name="description" content={description} />
-        <meta property="og:site_name" content={title} {subtitle} />
+        <meta property="og:site_name" content={title} />
         <meta property="og:image" content={metaImageUrl} />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />

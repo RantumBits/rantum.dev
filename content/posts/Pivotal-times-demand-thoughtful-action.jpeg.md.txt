@@ -1,0 +1,18 @@
+---
+template: post
+title: Pivotal-times-demand-thoughtful-action.jpeg
+slug: Pivotal-times-demand-thoughtful-action.jpeg
+draft: true
+date: 2020-06-08T07:57:34-07:00
+image: /images/Pivotal-times-demand-thoughtful-action.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: Pivotal-times-demand-thoughtful-action.jpeg
+tags:
+  - 
+  - 
+  -
+---
+Pivotal-times-demand-thoughtful-action.jpeg
+
+![Pivotal-times-demand-thoughtful-action.jpeg by Andrew Maury](/images/Pivotal-times-demand-thoughtful-action.jpeg)

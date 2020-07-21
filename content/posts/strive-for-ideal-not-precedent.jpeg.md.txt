@@ -1,0 +1,18 @@
+---
+template: post
+title: strive-for-ideal-not-precedent.jpeg
+slug: strive-for-ideal-not-precedent.jpeg
+draft: true
+date: 2020-07-04T09:54:54-07:00
+image: /images/strive-for-ideal-not-precedent.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: strive-for-ideal-not-precedent.jpeg
+tags:
+  - 
+  - 
+  -
+---
+strive-for-ideal-not-precedent.jpeg
+
+![strive-for-ideal-not-precedent.jpeg by Andrew Maury](/images/strive-for-ideal-not-precedent.jpeg)

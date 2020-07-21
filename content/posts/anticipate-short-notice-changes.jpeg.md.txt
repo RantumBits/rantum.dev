@@ -1,0 +1,18 @@
+---
+template: post
+title: anticipate-short-notice-changes.jpeg
+slug: anticipate-short-notice-changes.jpeg
+draft: true
+date: 2020-07-15T10:14:42-07:00
+image: /images/anticipate-short-notice-changes.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: anticipate-short-notice-changes.jpeg
+tags:
+  - 
+  - 
+  -
+---
+anticipate-short-notice-changes.jpeg
+
+![anticipate-short-notice-changes.jpeg by Andrew Maury](/images/anticipate-short-notice-changes.jpeg)

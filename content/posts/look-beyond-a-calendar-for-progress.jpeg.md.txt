@@ -1,0 +1,18 @@
+---
+template: post
+title: look-beyond-a-calendar-for-progress.jpeg
+slug: look-beyond-a-calendar-for-progress.jpeg
+draft: true
+date: 2020-06-25T07:38:45-07:00
+image: /images/look-beyond-a-calendar-for-progress.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: look-beyond-a-calendar-for-progress.jpeg
+tags:
+  - 
+  - 
+  -
+---
+look-beyond-a-calendar-for-progress.jpeg
+
+![look-beyond-a-calendar-for-progress.jpeg by Andrew Maury](/images/look-beyond-a-calendar-for-progress.jpeg)

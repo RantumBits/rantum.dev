@@ -1,0 +1,18 @@
+---
+template: post
+title: declutter-mind-to-address-anxieties.jpeg
+slug: declutter-mind-to-address-anxieties.jpeg
+draft: true
+date: 2020-06-17T07:56:57-07:00
+image: /images/declutter-mind-to-address-anxieties.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: declutter-mind-to-address-anxieties.jpeg
+tags:
+  - 
+  - 
+  -
+---
+declutter-mind-to-address-anxieties.jpeg
+
+![declutter-mind-to-address-anxieties.jpeg by Andrew Maury](/images/declutter-mind-to-address-anxieties.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: build-for-long-term-not-immediate-response.jpeg
+slug: build-for-long-term-not-immediate-response.jpeg
+draft: true
+date: 2020-06-10T07:24:45-07:00
+image: /images/build-for-long-term-not-immediate-response.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: build-for-long-term-not-immediate-response.jpeg
+tags:
+  - 
+  - 
+  -
+---
+build-for-long-term-not-immediate-response.jpeg
+
+![build-for-long-term-not-immediate-response.jpeg by Andrew Maury](/images/build-for-long-term-not-immediate-response.jpeg)

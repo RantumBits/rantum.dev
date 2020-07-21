@@ -1,0 +1,18 @@
+---
+template: post
+title: respect-the-agency-of-individuals.jpeg
+slug: respect-the-agency-of-individuals.jpeg
+draft: true
+date: 2020-07-03T10:33:37-07:00
+image: /images/respect-the-agency-of-individuals.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: respect-the-agency-of-individuals.jpeg
+tags:
+  - 
+  - 
+  -
+---
+respect-the-agency-of-individuals.jpeg
+
+![respect-the-agency-of-individuals.jpeg by Andrew Maury](/images/respect-the-agency-of-individuals.jpeg)

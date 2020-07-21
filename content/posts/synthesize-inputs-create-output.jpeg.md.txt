@@ -1,0 +1,18 @@
+---
+template: post
+title: synthesize-inputs-create-output.jpeg
+slug: synthesize-inputs-create-output.jpeg
+draft: true
+date: 2020-06-30T06:54:26-07:00
+image: /images/synthesize-inputs-create-output.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: synthesize-inputs-create-output.jpeg
+tags:
+  - 
+  - 
+  -
+---
+synthesize-inputs-create-output.jpeg
+
+![synthesize-inputs-create-output.jpeg by Andrew Maury](/images/synthesize-inputs-create-output.jpeg)

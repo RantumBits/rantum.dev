@@ -1,0 +1,18 @@
+---
+template: post
+title: use-the-appropriate-tool.jpeg
+slug: use-the-appropriate-tool.jpeg
+draft: true
+date: 2020-06-22T08:50:48-07:00
+image: /images/use-the-appropriate-tool.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: use-the-appropriate-tool.jpeg
+tags:
+  - 
+  - 
+  -
+---
+use-the-appropriate-tool.jpeg
+
+![use-the-appropriate-tool.jpeg by Andrew Maury](/images/use-the-appropriate-tool.jpeg)

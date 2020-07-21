@@ -1,0 +1,18 @@
+---
+template: post
+title: no-value-in-complaining-about-weather.jpeg
+slug: no-value-in-complaining-about-weather.jpeg
+draft: true
+date: 2020-06-14T09:27:32-07:00
+image: /images/no-value-in-complaining-about-weather.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: no-value-in-complaining-about-weather.jpeg
+tags:
+  - 
+  - 
+  -
+---
+no-value-in-complaining-about-weather.jpeg
+
+![no-value-in-complaining-about-weather.jpeg by Andrew Maury](/images/no-value-in-complaining-about-weather.jpeg)

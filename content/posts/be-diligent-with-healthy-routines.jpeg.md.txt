@@ -1,0 +1,18 @@
+---
+template: post
+title: be-diligent-with-healthy-routines.jpeg
+slug: be-diligent-with-healthy-routines.jpeg
+draft: true
+date: 2020-07-10T09:49:13-07:00
+image: /images/be-diligent-with-healthy-routines.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: be-diligent-with-healthy-routines.jpeg
+tags:
+  - 
+  - 
+  -
+---
+be-diligent-with-healthy-routines.jpeg
+
+![be-diligent-with-healthy-routines.jpeg by Andrew Maury](/images/be-diligent-with-healthy-routines.jpeg)

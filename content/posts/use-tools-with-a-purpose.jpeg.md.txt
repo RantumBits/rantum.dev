@@ -1,0 +1,18 @@
+---
+template: post
+title: use-tools-with-a-purpose.jpeg
+slug: use-tools-with-a-purpose.jpeg
+draft: true
+date: 2020-06-16T06:49:55-07:00
+image: /images/use-tools-with-a-purpose.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: use-tools-with-a-purpose.jpeg
+tags:
+  - 
+  - 
+  -
+---
+use-tools-with-a-purpose.jpeg
+
+![use-tools-with-a-purpose.jpeg by Andrew Maury](/images/use-tools-with-a-purpose.jpeg)

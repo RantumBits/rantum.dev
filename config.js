@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
   title: 'Andrew Maury',
-  subtitle: 'ecommerce consultant & agency owner @ecomloop // cynical optimist in technology advances',
+  subtitle: 'ecommerce consultant @ecomloop // cynical optimist in life',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 7,
@@ -21,11 +21,12 @@ module.exports = {
       path: '/category/journal/'
     },
 
+
   ],
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.jpg',
-    bio:'ecommerce consultant + agency owner at @ecomloop // cynical optimist regarding incremental technology advances  // 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
+    bio:'ecommerce consultant @ecomloop // cynical optimist in technology advances  // 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
       email: 'andrew.maury@gmail.com',
       facebook: '',

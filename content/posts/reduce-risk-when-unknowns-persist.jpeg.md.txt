@@ -1,0 +1,18 @@
+---
+template: post
+title: reduce-risk-when-unknowns-persist.jpeg
+slug: reduce-risk-when-unknowns-persist.jpeg
+draft: true
+date: 2020-07-10T08:50:52-07:00
+image: /images/reduce-risk-when-unknowns-persist.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: reduce-risk-when-unknowns-persist.jpeg
+tags:
+  - 
+  - 
+  -
+---
+reduce-risk-when-unknowns-persist.jpeg
+
+![reduce-risk-when-unknowns-persist.jpeg by Andrew Maury](/images/reduce-risk-when-unknowns-persist.jpeg)

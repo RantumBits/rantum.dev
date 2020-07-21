@@ -1,0 +1,18 @@
+---
+template: post
+title: consider-response-to-others-actions.jpeg
+slug: consider-response-to-others-actions.jpeg
+draft: true
+date: 2020-06-13T09:48:37-07:00
+image: /images/consider-response-to-others-actions.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: consider-response-to-others-actions.jpeg
+tags:
+  - 
+  - 
+  -
+---
+consider-response-to-others-actions.jpeg
+
+![consider-response-to-others-actions.jpeg by Andrew Maury](/images/consider-response-to-others-actions.jpeg)

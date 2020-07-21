@@ -1,0 +1,18 @@
+---
+template: post
+title: Move-projects-forward-with-fresh-perspectives.jpeg
+slug: Move-projects-forward-with-fresh-perspectives.jpeg
+draft: true
+date: 2020-06-23T10:00:06-07:00
+image: /images/Move-projects-forward-with-fresh-perspectives.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: Move-projects-forward-with-fresh-perspectives.jpeg
+tags:
+  - 
+  - 
+  -
+---
+Move-projects-forward-with-fresh-perspectives.jpeg
+
+![Move-projects-forward-with-fresh-perspectives.jpeg by Andrew Maury](/images/Move-projects-forward-with-fresh-perspectives.jpeg)

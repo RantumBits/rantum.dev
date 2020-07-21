@@ -1,0 +1,18 @@
+---
+template: post
+title: actively-support-virtues-and-values.jpeg
+slug: actively-support-virtues-and-values.jpeg
+draft: true
+date: 2020-06-04T07:43:25-07:00
+image: /images/actively-support-virtues-and-values.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: actively-support-virtues-and-values.jpeg
+tags:
+  - 
+  - 
+  -
+---
+actively-support-virtues-and-values.jpeg
+
+![actively-support-virtues-and-values.jpeg by Andrew Maury](/images/actively-support-virtues-and-values.jpeg)

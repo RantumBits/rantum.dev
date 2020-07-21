@@ -1,0 +1,18 @@
+---
+template: post
+title: being-silent-is-being-complicit.jpeg
+slug: being-silent-is-being-complicit.jpeg
+draft: true
+date: 2020-06-02T07:38:46-07:00
+image: /images/being-silent-is-being-complicit.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: being-silent-is-being-complicit.jpeg
+tags:
+  - 
+  - 
+  -
+---
+being-silent-is-being-complicit.jpeg
+
+![being-silent-is-being-complicit.jpeg by Andrew Maury](/images/being-silent-is-being-complicit.jpeg)

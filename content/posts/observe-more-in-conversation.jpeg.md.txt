@@ -1,0 +1,18 @@
+---
+template: post
+title: observe-more-in-conversation.jpeg
+slug: observe-more-in-conversation.jpeg
+draft: true
+date: 2020-06-19T10:06:50-07:00
+image: /images/observe-more-in-conversation.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: observe-more-in-conversation.jpeg
+tags:
+  - 
+  - 
+  -
+---
+observe-more-in-conversation.jpeg
+
+![observe-more-in-conversation.jpeg by Andrew Maury](/images/observe-more-in-conversation.jpeg)
