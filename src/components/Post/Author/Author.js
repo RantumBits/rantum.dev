@@ -11,7 +11,7 @@ const Author = () => {
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
         <strong>andrew maury</strong><br/>
-        ecommerce consultant + agency owner at <a href="https://ecomloop.com">ecomloop</a>.<br/>cynical optimist regarding incremental technology advances. <br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝
+        ecommerce consultant <a href="https://ecomloop.com">@ecomloop</a>.<br/>cynical optimist in technology advances.<br/>nantucketer on a rantum scoot.<br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝
       </p>
     </div>
   );
