@@ -1,0 +1,18 @@
+---
+template: post
+title: write-the-story-dont-let-it-happen.jpeg
+slug: write-the-story-dont-let-it-happen.jpeg
+draft: true
+date: 2020-07-23T13:38:23-07:00
+image: /images/write-the-story-dont-let-it-happen.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: write-the-story-dont-let-it-happen.jpeg
+tags:
+  - 
+  - 
+  -
+---
+write-the-story-dont-let-it-happen.jpeg
+
+![write-the-story-dont-let-it-happen.jpeg by Andrew Maury](/images/write-the-story-dont-let-it-happen.jpeg)

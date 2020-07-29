@@ -1,0 +1,18 @@
+---
+template: post
+title: stay-in-control-with-backup-plans.jpeg
+slug: stay-in-control-with-backup-plans.jpeg
+draft: true
+date: 2020-07-22T12:03:19-07:00
+image: /images/stay-in-control-with-backup-plans.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: stay-in-control-with-backup-plans.jpeg
+tags:
+  - 
+  - 
+  -
+---
+stay-in-control-with-backup-plans.jpeg
+
+![stay-in-control-with-backup-plans.jpeg by Andrew Maury](/images/stay-in-control-with-backup-plans.jpeg)

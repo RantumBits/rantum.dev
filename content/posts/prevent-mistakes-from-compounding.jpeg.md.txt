@@ -1,0 +1,18 @@
+---
+template: post
+title: prevent-mistakes-from-compounding.jpeg
+slug: prevent-mistakes-from-compounding.jpeg
+draft: true
+date: 2020-07-28T10:50:23-07:00
+image: /images/prevent-mistakes-from-compounding.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: prevent-mistakes-from-compounding.jpeg
+tags:
+  - 
+  - 
+  -
+---
+prevent-mistakes-from-compounding.jpeg
+
+![prevent-mistakes-from-compounding.jpeg by Andrew Maury](/images/prevent-mistakes-from-compounding.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: release-expectations-enjoy-reality.jpeg
+slug: release-expectations-enjoy-reality.jpeg
+draft: true
+date: 2020-07-24T12:13:56-07:00
+image: /images/release-expectations-enjoy-reality.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: release-expectations-enjoy-reality.jpeg
+tags:
+  - 
+  - 
+  -
+---
+release-expectations-enjoy-reality.jpeg
+
+![release-expectations-enjoy-reality.jpeg by Andrew Maury](/images/release-expectations-enjoy-reality.jpeg)

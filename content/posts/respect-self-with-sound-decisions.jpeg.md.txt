@@ -1,0 +1,18 @@
+---
+template: post
+title: respect-self-with-sound-decisions.jpeg
+slug: respect-self-with-sound-decisions.jpeg
+draft: true
+date: 2020-07-27T13:25:03-07:00
+image: /images/respect-self-with-sound-decisions.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: respect-self-with-sound-decisions.jpeg
+tags:
+  - 
+  - 
+  -
+---
+respect-self-with-sound-decisions.jpeg
+
+![respect-self-with-sound-decisions.jpeg by Andrew Maury](/images/respect-self-with-sound-decisions.jpeg)
