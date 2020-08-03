@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://andrewmaury.com',
   pathPrefix: '/',
   title: 'Andrew Maury',
-  subtitle: 'nantucketer on a rantum scoot. cynical optimist in technology advances. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝. personal blog of andrew maury.',
+  subtitle: 'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 7,
@@ -26,9 +26,9 @@ module.exports = {
   author: {
     name: 'Andrew Maury',
     photo: '/andrew-maury.jpg',
-    bio:'ecommerce consultant @ecomloop | nantucketer on a rantum scoot | cynical optimist in technology advances | personal blog of andrew maury | 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
+    bio:'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
-      email: 'andrew.maury@gmail.com',
+      email: '',
       facebook: '',
       telegram: '',
       twitter: 'andrewmaury',
