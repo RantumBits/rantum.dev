@@ -1,0 +1,18 @@
+---
+template: post
+title: plan-for-contingencies.jpeg
+slug: plan-for-contingencies.jpeg
+draft: true
+date: 2020-08-03T09:15:19-07:00
+image: /images/plan-for-contingencies.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: plan-for-contingencies.jpeg
+tags:
+  - 
+  - 
+  -
+---
+plan-for-contingencies.jpeg
+
+![plan-for-contingencies.jpeg by Andrew Maury](/images/plan-for-contingencies.jpeg)

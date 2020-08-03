@@ -1,0 +1,18 @@
+---
+template: post
+title: make-controllable-plans.jpeg
+slug: make-controllable-plans.jpeg
+draft: true
+date: 2020-08-02T18:29:11-07:00
+image: /images/make-controllable-plans.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: make-controllable-plans.jpeg
+tags:
+  - 
+  - 
+  -
+---
+make-controllable-plans.jpeg
+
+![make-controllable-plans.jpeg by Andrew Maury](/images/make-controllable-plans.jpeg)

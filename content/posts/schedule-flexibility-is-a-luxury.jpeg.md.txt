@@ -1,0 +1,18 @@
+---
+template: post
+title: schedule-flexibility-is-a-luxury.jpeg
+slug: schedule-flexibility-is-a-luxury.jpeg
+draft: true
+date: 2020-07-31T10:18:22-07:00
+image: /images/schedule-flexibility-is-a-luxury.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: schedule-flexibility-is-a-luxury.jpeg
+tags:
+  - 
+  - 
+  -
+---
+schedule-flexibility-is-a-luxury.jpeg
+
+![schedule-flexibility-is-a-luxury.jpeg by Andrew Maury](/images/schedule-flexibility-is-a-luxury.jpeg)
