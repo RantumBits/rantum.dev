@@ -7,7 +7,7 @@ date: 2020-08-04T11:33:36-07:00
 image: /images/outdoor-recreation-is-best-natural-escape.jpeg
 featuredImage: /photos/2020-08-04.png
 category: Journal
-description: outdoor-recreation-is-best-natural-escape.jpeg
+description: Nature is rejuvenating and a natural stress reliever. Make time for outdoor recreation as an escape.
 tags:
   - outdoors
   - anxiety
