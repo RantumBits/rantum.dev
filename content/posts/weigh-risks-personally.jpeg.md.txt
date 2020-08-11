@@ -1,0 +1,18 @@
+---
+template: post
+title: weigh-risks-personally.jpeg
+slug: weigh-risks-personally.jpeg
+draft: true
+date: 2020-08-08T10:36:51-07:00
+image: /images/weigh-risks-personally.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: weigh-risks-personally.jpeg
+tags:
+  - 
+  - 
+  -
+---
+weigh-risks-personally.jpeg
+
+![weigh-risks-personally.jpeg by Andrew Maury](/images/weigh-risks-personally.jpeg)

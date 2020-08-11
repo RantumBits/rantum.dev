@@ -1,0 +1,18 @@
+---
+template: post
+title: set-clear-guidelines.jpeg
+slug: set-clear-guidelines.jpeg
+draft: true
+date: 2020-08-08T10:36:50-07:00
+image: /images/set-clear-guidelines.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: set-clear-guidelines.jpeg
+tags:
+  - 
+  - 
+  -
+---
+set-clear-guidelines.jpeg
+
+![set-clear-guidelines.jpeg by Andrew Maury](/images/set-clear-guidelines.jpeg)

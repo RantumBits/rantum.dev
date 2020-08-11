@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Andrew Maury',
   subtitle: 'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
-  copyright: '© All rights reserved.',
+  copyright: '© All rights reserved. andrew maury',
   disqusShortname: '',
   postsPerPage: 7,
   googleAnalyticsId: 'UA-25962239-1',
@@ -28,7 +28,7 @@ module.exports = {
     photo: '/andrew-maury.jpg',
     bio:'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
-      email: '',
+      email: 'andrew.maury@',
       facebook: '',
       telegram: '',
       twitter: 'andrewmaury',

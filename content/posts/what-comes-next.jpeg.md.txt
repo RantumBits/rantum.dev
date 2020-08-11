@@ -1,0 +1,18 @@
+---
+template: post
+title: what-comes-next.jpeg
+slug: what-comes-next.jpeg
+draft: true
+date: 2020-08-11T15:37:45-07:00
+image: /images/what-comes-next.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: what-comes-next.jpeg
+tags:
+  - 
+  - 
+  -
+---
+what-comes-next.jpeg
+
+![what-comes-next.jpeg by Andrew Maury](/images/what-comes-next.jpeg)
