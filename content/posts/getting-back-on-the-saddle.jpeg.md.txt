@@ -1,0 +1,18 @@
+---
+template: post
+title: getting-back-on-the-saddle.jpeg
+slug: getting-back-on-the-saddle.jpeg
+draft: true
+date: 2020-08-12T09:44:44-07:00
+image: /images/getting-back-on-the-saddle.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: getting-back-on-the-saddle.jpeg
+tags:
+  - 
+  - 
+  -
+---
+getting-back-on-the-saddle.jpeg
+
+![getting-back-on-the-saddle.jpeg by Andrew Maury](/images/getting-back-on-the-saddle.jpeg)
