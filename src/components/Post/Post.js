@@ -14,6 +14,8 @@ type Props = {
 };
 
 const Post = ({ post }: Props) => {
+    console.log("****** in post")
+    console.log(post)
   const { html } = post;
   const { tagSlugs, slug } = post.fields;
   const { tags, title, date, featuredImage } = post.frontmatter;

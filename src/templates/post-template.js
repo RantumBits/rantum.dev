@@ -4,7 +4,8 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Post from '../components/Post';
-import { useSiteMetadata } from '../hooks';
+import RelatedPosts from '../components/RelatedPosts';
+import { useSiteMetadata, usePostsList } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
 type Props = {
@@ -15,6 +16,7 @@ type Props = {
 
 const PostTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
+  const allPostEdges = usePostsList();
   const { frontmatter } = data.markdownRemark;
   const { title: postTitle, description: postDescription, socialImage } = frontmatter;
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
@@ -23,6 +25,7 @@ const PostTemplate = ({ data }: Props) => {
     <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
       <Sidebar isIndex />
       <Post post={data.markdownRemark} />
+      <RelatedPosts post={data.markdownRemark} allPosts={allPostEdges}/>
     </Layout>
   );
 };
@@ -40,6 +43,7 @@ export const query = graphql`
         date
         description
         tags
+        category
         title
         socialImage
         featuredImage

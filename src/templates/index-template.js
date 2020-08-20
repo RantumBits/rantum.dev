@@ -8,6 +8,7 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
 import type { PageContext, AllMarkdownRemark } from '../types';
+import Helmet from 'react-helmet';
 
 type Props = {
   data: AllMarkdownRemark,
@@ -15,7 +16,7 @@ type Props = {
 };
 
 const IndexTemplate = ({ data, pageContext }: Props) => {
-  const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
+  const { title: siteTitle, subtitle: siteSubtitle, url: homepage } = useSiteMetadata();
 
   const {
     currentPage,
@@ -29,10 +30,15 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
   const { edges } = data.allMarkdownRemark;
   const featuredEdges = data.featuredposts.edges;
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle + " // " + siteSubtitle;
-
+  
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
-      
+      {currentPage>0 &&
+        <Helmet>
+            <link rel="canonical" href={homepage} />
+            <meta name="robots" content="noindex" />
+        </Helmet>
+      }
       <Sidebar isIndex />
       <Page>
         <Feed edges={featuredEdges} />

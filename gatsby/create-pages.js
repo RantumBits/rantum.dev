@@ -21,6 +21,12 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/tags-list-template.js')
   });
 
+  // Tags list with Posts
+  createPage({
+    path: '/tagsposts',
+    component: path.resolve('./src/templates/tags-list-with-posts-template.js')
+  });
+
   // Categories list
   createPage({
     path: '/categories',
