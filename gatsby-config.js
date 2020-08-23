@@ -77,7 +77,7 @@ module.exports = {
         name: 'assets',
         path: `${__dirname}/static`
       }
-    },
+    },    
     {
       resolve: 'gatsby-plugin-feed',
       options: {
@@ -134,6 +134,8 @@ module.exports = {
         }]
       }
     },
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',    
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -166,9 +168,25 @@ module.exports = {
           'gatsby-remark-external-links'
         ]
       }
+    },    
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content/posts`
+      }
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/photos`
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/images`
+      }
+    },
     'gatsby-plugin-netlify',
     {
       resolve: 'gatsby-plugin-netlify-cms',
