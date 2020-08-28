@@ -5,7 +5,7 @@ slug: Staying-active-inside-during-pandemic
 draft: false
 date: 2020-08-23T16:28:05-07:00
 image: /images/Staying-active-inside-during-pandemic.jpeg
-featuredImage: /photos/2020-XX-XX.png
+featuredImage: /photos/2020-08-23.png
 category: Journal
 description: Physical activity brings many benefits to moods, outlooks, and physical health. Develop routines to stay active indoors with the kids. Don't fall into a pattern of waiting for the right conditions to get moving again.
 tags:
