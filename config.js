@@ -5,9 +5,9 @@ module.exports = {
   pathPrefix: '/',
   title: 'Andrew Maury',
   subtitle: 'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
-  copyright: '© All rights reserved. andrew maury',
+  copyright: '© All rights reserved',
   disqusShortname: '',
-  postsPerPage: 7,
+  postsPerPage: 15,
   googleAnalyticsId: 'UA-25962239-1',
   useKatex: false,
   menu: [

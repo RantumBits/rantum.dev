@@ -77,7 +77,7 @@ module.exports = {
         name: 'assets',
         path: `${__dirname}/static`
       }
-    },    
+    },
     {
       resolve: 'gatsby-plugin-feed',
       options: {
@@ -135,7 +135,7 @@ module.exports = {
       }
     },
     'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',    
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -168,7 +168,7 @@ module.exports = {
           'gatsby-remark-external-links'
         ]
       }
-    },    
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
