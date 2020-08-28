@@ -1,0 +1,18 @@
+---
+template: post
+title: 2020-08-25 07-52.jpeg
+slug: 2020-08-25 07-52.jpeg
+draft: true
+date: 2020-08-25T08:08:07-07:00
+image: /images/2020-08-25 07-52.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: 2020-08-25 07-52.jpeg
+tags:
+  - 
+  - 
+  -
+---
+2020-08-25 07-52.jpeg
+
+![2020-08-25 07-52.jpeg by Andrew Maury](/images/2020-08-25 07-52.jpeg)

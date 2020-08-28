@@ -1,0 +1,18 @@
+---
+template: post
+title: digital-solutions-get-better-over-time.jpeg
+slug: digital-solutions-get-better-over-time.jpeg
+draft: true
+date: 2020-08-22T10:34:50-07:00
+image: /images/digital-solutions-get-better-over-time.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: digital-solutions-get-better-over-time.jpeg
+tags:
+  - 
+  - 
+  -
+---
+digital-solutions-get-better-over-time.jpeg
+
+![digital-solutions-get-better-over-time.jpeg by Andrew Maury](/images/digital-solutions-get-better-over-time.jpeg)

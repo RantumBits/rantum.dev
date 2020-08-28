@@ -1,0 +1,20 @@
+---
+template: post
+title: "Demonstrate what's important"
+slug: demonstrate-whats-important
+draft: false
+date: 2020-08-18T09:18:17-07:00
+image: /images/demonstrate-whats-important.jpeg
+featuredImage: /photos/2020-08-18.png
+category: Journal
+description: It's too easy to get caught up in the details and be sidetracked by others. Make it easier with a better structure to each day that emphasizes importance in the right places.
+tags:
+  - values
+  - parenting
+  - time
+---
+Structure the day that places importance on the aspects that are truly most important. Make that apparent in daily life to self and others.
+
+It's too easy to get caught up in the details and be sidetracked by others. Make it easier with a better structure to each day that emphasizes importance in the right places.
+
+![demonstrate-whats-important.jpeg by Andrew Maury](/images/demonstrate-whats-important.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: further-than-currently-possible.jpeg
+slug: further-than-currently-possible.jpeg
+draft: true
+date: 2020-08-25T08:08:06-07:00
+image: /images/further-than-currently-possible.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: further-than-currently-possible.jpeg
+tags:
+  - 
+  - 
+  -
+---
+further-than-currently-possible.jpeg
+
+![further-than-currently-possible.jpeg by Andrew Maury](/images/further-than-currently-possible.jpeg)

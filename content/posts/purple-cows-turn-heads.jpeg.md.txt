@@ -1,0 +1,18 @@
+---
+template: post
+title: purple-cows-turn-heads.jpeg
+slug: purple-cows-turn-heads.jpeg
+draft: true
+date: 2020-08-26T06:54:44-07:00
+image: /images/purple-cows-turn-heads.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: purple-cows-turn-heads.jpeg
+tags:
+  - 
+  - 
+  -
+---
+purple-cows-turn-heads.jpeg
+
+![purple-cows-turn-heads.jpeg by Andrew Maury](/images/purple-cows-turn-heads.jpeg)

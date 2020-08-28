@@ -1,0 +1,18 @@
+---
+template: post
+title: cows-dont-realize-their-mistakes.jpeg
+slug: cows-dont-realize-their-mistakes.jpeg
+draft: true
+date: 2020-08-27T08:04:00-07:00
+image: /images/cows-dont-realize-their-mistakes.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: cows-dont-realize-their-mistakes.jpeg
+tags:
+  - 
+  - 
+  -
+---
+cows-dont-realize-their-mistakes.jpeg
+
+![cows-dont-realize-their-mistakes.jpeg by Andrew Maury](/images/cows-dont-realize-their-mistakes.jpeg)

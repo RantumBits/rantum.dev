@@ -1,0 +1,18 @@
+---
+template: post
+title: back-to-school-at-home.jpeg
+slug: back-to-school-at-home.jpeg
+draft: true
+date: 2020-08-21T07:01:03-07:00
+image: /images/back-to-school-at-home.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: back-to-school-at-home.jpeg
+tags:
+  - 
+  - 
+  -
+---
+back-to-school-at-home.jpeg
+
+![back-to-school-at-home.jpeg by Andrew Maury](/images/back-to-school-at-home.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: longest-school-year-awaits.jpeg
+slug: longest-school-year-awaits.jpeg
+draft: true
+date: 2020-08-14T07:52:10-07:00
+image: /images/longest-school-year-awaits.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: longest-school-year-awaits.jpeg
+tags:
+  - 
+  - 
+  -
+---
+longest-school-year-awaits.jpeg
+
+![longest-school-year-awaits.jpeg by Andrew Maury](/images/longest-school-year-awaits.jpeg)
