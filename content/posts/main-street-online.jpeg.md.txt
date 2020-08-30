@@ -1,0 +1,18 @@
+---
+template: post
+title: main-street-online.jpeg
+slug: main-street-online.jpeg
+draft: true
+date: 2020-08-28T08:22:10-07:00
+image: /images/main-street-online.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: main-street-online.jpeg
+tags:
+  - 
+  - 
+  -
+---
+main-street-online.jpeg
+
+![main-street-online.jpeg by Andrew Maury](/images/main-street-online.jpeg)

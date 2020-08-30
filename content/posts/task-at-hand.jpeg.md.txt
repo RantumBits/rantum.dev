@@ -1,0 +1,18 @@
+---
+template: post
+title: task-at-hand.jpeg
+slug: task-at-hand.jpeg
+draft: true
+date: 2020-08-30T08:41:30-07:00
+image: /images/task-at-hand.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: task-at-hand.jpeg
+tags:
+  - 
+  - 
+  -
+---
+task-at-hand.jpeg
+
+![task-at-hand.jpeg by Andrew Maury](/images/task-at-hand.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: smoky-conditions-during-pandemic.jpeg
+slug: smoky-conditions-during-pandemic.jpeg
+draft: true
+date: 2020-08-29T09:15:09-07:00
+image: /images/smoky-conditions-during-pandemic.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: smoky-conditions-during-pandemic.jpeg
+tags:
+  - 
+  - 
+  -
+---
+smoky-conditions-during-pandemic.jpeg
+
+![smoky-conditions-during-pandemic.jpeg by Andrew Maury](/images/smoky-conditions-during-pandemic.jpeg)
