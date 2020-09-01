@@ -7,7 +7,7 @@ date: 2020-08-31T07:41:14-07:00
 image: /images/bigger-strides.jpeg
 featuredImage: /photos/2020-08-31.png
 category: Journal
-description:Utilize the time effectively by taking swings in areas that look like potential opportunities. Make the swings worthwhile, and go after the right opportunities.
+description: Utilize the time effectively by taking swings in areas that look like potential opportunities. Make the swings worthwhile, and go after the right opportunities.
 tags:
   - time management
   - trust

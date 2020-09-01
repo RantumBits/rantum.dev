@@ -5,9 +5,9 @@ slug: task-at-hand
 draft: false
 date: 2020-08-30T08:41:30-07:00
 image: /images/task-at-hand.jpeg
-featuredImage: /photos/2020-XX-XX.png
+featuredImage: /photos/2020-08-30.png
 category: Journal
-description: It's easy to lose focus and become distracted. Real changes have occurred, causing plans to change. Adjust, reassess, then focus on the task at hand. 
+description: It's easy to lose focus and become distracted. Real changes have occurred, causing plans to change. Adjust, reassess, then focus on the task at hand.
 tags:
   - diligence
   - focus
