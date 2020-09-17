@@ -261,7 +261,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/andrew-maury.png'
+        icon: 'https://source.unsplash.com/250x250/?abstract'
       },
     },
     'gatsby-plugin-offline',
