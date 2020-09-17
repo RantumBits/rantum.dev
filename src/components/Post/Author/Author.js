@@ -10,8 +10,8 @@ const Author = () => {
   return (
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
-        <strong>andrew maury</strong><br/>
-        ecommerce consultant <a href="https://ecomloop.com">@ecomloop</a>.<br/>cynical optimist in technology advances.<br/>nantucketer on a rantum scoot.<br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝
+        <strong>{author.name}</strong><br/>
+        {author.bio}
       </p>
     </div>
   );

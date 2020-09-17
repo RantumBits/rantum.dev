@@ -22,7 +22,7 @@ const Post = ({ post }: Props) => {
 
   return (
     <div className={styles['post']}>
-      
+
 <div className={styles['post__header']}>
 
 </div>

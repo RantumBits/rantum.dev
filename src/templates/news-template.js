@@ -9,7 +9,7 @@ import { useSiteMetadata, usePostsList } from '../hooks';
 
 const NewsTemplate = ({ data }) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
-  const { title, excerpt, articleid, author, source,text, dateadded, highlight, highlight2, url, tags,image,  comment, keywords, publishdate } = data.news;
+  const { title, excerpt, articleid, author, source,text, dateadded, highlight, highlight2, url, tags,image,  comment, keywords, publishdate, extractedkeywords } = data.news;
   const metaDescription = excerpt !== null ? excerpt : siteSubtitle;
 
   return (
@@ -27,14 +27,17 @@ const NewsTemplate = ({ data }) => {
 
 <h3><a href={url}>{title}</a></h3>
             <p>{comment}</p>
-            By {author} at{source}<br/>
+
+            By {author} at {source}<br/>
 
             <blockquote>{highlight}</blockquote>
             <blockquote>{highlight2}</blockquote>
-              Original date: {publishdate}<br/>
-              Posted: {dateadded}<br/>
+              article date: {publishdate}<br/>
+              posted: {dateadded}<br/>
 
             <p><a href={url} target="_blank" >Read the original post &gt;</a></p>
+
+            {extractedkeywords}
         </div>
       </Page>
     </Layout>

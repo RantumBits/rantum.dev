@@ -29,8 +29,8 @@ module.exports = {
   ],
   author: {
     name: 'rantum.dev',
-    photo: '/andrew-maury.jpg',
-    bio:'digital dwelling of andrew maury. a rantum scoot of writings, photos, links, & projects 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
+    photo: 'https://source.unsplash.com/250x250/?abstract',
+    bio:'digital dwelling of andrew maury, digital developer @ecomloop. a rantum scoot of writings, photos, links, & projects. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
       email: 'andrew.maury@',
       facebook: '',

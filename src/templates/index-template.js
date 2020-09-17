@@ -33,15 +33,22 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
+
+
       {currentPage>0 &&
         <Helmet>
             <link rel="canonical" href={homepage} />
             <meta name="robots" content="noindex" />
         </Helmet>
       }
+
       <Sidebar isIndex />
       <Page>
-      
+<h2>{siteTitle}</h2>
+
+  <a href="/?new"><img src={'https://source.unsplash.com/800x300/?abstract.'+ Math.random()} alt={pageTitle} width={"800"} height={"300"}/></a>
+
+  <p>{siteSubtitle} <br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝</p>
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
