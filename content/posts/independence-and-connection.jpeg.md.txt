@@ -1,0 +1,18 @@
+---
+template: post
+title: independence-and-connection.jpeg
+slug: independence-and-connection.jpeg
+draft: true
+date: 2020-09-14T07:35:47-07:00
+image: /images/independence-and-connection.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: independence-and-connection.jpeg
+tags:
+  - 
+  - 
+  -
+---
+independence-and-connection.jpeg
+
+![independence-and-connection.jpeg by Andrew Maury](/images/independence-and-connection.jpeg)

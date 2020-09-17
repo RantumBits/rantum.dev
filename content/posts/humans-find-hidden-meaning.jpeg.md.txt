@@ -1,0 +1,18 @@
+---
+template: post
+title: humans-find-hidden-meaning.jpeg
+slug: humans-find-hidden-meaning.jpeg
+draft: true
+date: 2020-09-01T09:46:46-07:00
+image: /images/humans-find-hidden-meaning.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: humans-find-hidden-meaning.jpeg
+tags:
+  - 
+  - 
+  -
+---
+humans-find-hidden-meaning.jpeg
+
+![humans-find-hidden-meaning.jpeg by Andrew Maury](/images/humans-find-hidden-meaning.jpeg)

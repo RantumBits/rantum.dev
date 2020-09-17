@@ -1,0 +1,18 @@
+---
+template: post
+title: rebuild-stronger.jpeg
+slug: rebuild-stronger.jpeg
+draft: true
+date: 2020-09-03T13:19:20-07:00
+image: /images/rebuild-stronger.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: rebuild-stronger.jpeg
+tags:
+  - 
+  - 
+  -
+---
+rebuild-stronger.jpeg
+
+![rebuild-stronger.jpeg by Andrew Maury](/images/rebuild-stronger.jpeg)

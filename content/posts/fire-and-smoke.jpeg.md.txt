@@ -1,0 +1,18 @@
+---
+template: post
+title: fire-and-smoke.jpeg
+slug: fire-and-smoke.jpeg
+draft: true
+date: 2020-09-10T09:47:25-07:00
+image: /images/fire-and-smoke.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: fire-and-smoke.jpeg
+tags:
+  - 
+  - 
+  -
+---
+fire-and-smoke.jpeg
+
+![fire-and-smoke.jpeg by Andrew Maury](/images/fire-and-smoke.jpeg)

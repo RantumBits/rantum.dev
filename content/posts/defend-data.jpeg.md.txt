@@ -1,0 +1,18 @@
+---
+template: post
+title: defend-data.jpeg
+slug: defend-data.jpeg
+draft: true
+date: 2020-09-02T08:36:00-07:00
+image: /images/defend-data.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: defend-data.jpeg
+tags:
+  - 
+  - 
+  -
+---
+defend-data.jpeg
+
+![defend-data.jpeg by Andrew Maury](/images/defend-data.jpeg)

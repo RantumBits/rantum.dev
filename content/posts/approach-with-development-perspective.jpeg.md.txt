@@ -1,0 +1,18 @@
+---
+template: post
+title: approach-with-development-perspective.jpeg
+slug: approach-with-development-perspective.jpeg
+draft: true
+date: 2020-09-06T17:18:40-07:00
+image: /images/approach-with-development-perspective.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: approach-with-development-perspective.jpeg
+tags:
+  - 
+  - 
+  -
+---
+approach-with-development-perspective.jpeg
+
+![approach-with-development-perspective.jpeg by Andrew Maury](/images/approach-with-development-perspective.jpeg)

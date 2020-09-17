@@ -1,0 +1,18 @@
+---
+template: post
+title: incremental-gains.jpeg
+slug: incremental-gains.jpeg
+draft: true
+date: 2020-09-16T09:37:23-07:00
+image: /images/incremental-gains.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: incremental-gains.jpeg
+tags:
+  - 
+  - 
+  -
+---
+incremental-gains.jpeg
+
+![incremental-gains.jpeg by Andrew Maury](/images/incremental-gains.jpeg)

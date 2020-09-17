@@ -1,0 +1,18 @@
+---
+template: post
+title: quality-of-life-normalization.jpeg
+slug: quality-of-life-normalization.jpeg
+draft: true
+date: 2020-09-13T10:06:50-07:00
+image: /images/quality-of-life-normalization.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: quality-of-life-normalization.jpeg
+tags:
+  - 
+  - 
+  -
+---
+quality-of-life-normalization.jpeg
+
+![quality-of-life-normalization.jpeg by Andrew Maury](/images/quality-of-life-normalization.jpeg)

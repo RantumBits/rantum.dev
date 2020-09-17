@@ -44,6 +44,15 @@ module.exports = {
       exportMimeType: ''
       }
     },
+    {
+    resolve: 'gatsby-source-google-sheets',
+    options: {
+        spreadsheetId: '1bzsICvtZEjWqe85FH7Pjx90fwmKsPy5ScbIaNxRoLhI',
+        worksheetTitle: 'links',
+        credentials: require(`${__dirname}/client_secret.json`,),
+
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
     resolve: '@fs/gatsby-plugin-drive',

@@ -1,0 +1,18 @@
+---
+template: post
+title: small-wins-repeated.jpeg
+slug: small-wins-repeated.jpeg
+draft: true
+date: 2020-09-15T21:28:04-07:00
+image: /images/small-wins-repeated.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: small-wins-repeated.jpeg
+tags:
+  - 
+  - 
+  -
+---
+small-wins-repeated.jpeg
+
+![small-wins-repeated.jpeg by Andrew Maury](/images/small-wins-repeated.jpeg)

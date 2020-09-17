@@ -1,0 +1,18 @@
+---
+template: post
+title: accept-reality-act-deliberately.jpeg
+slug: accept-reality-act-deliberately.jpeg
+draft: true
+date: 2020-09-04T09:16:17-07:00
+image: /images/accept-reality-act-deliberately.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: accept-reality-act-deliberately.jpeg
+tags:
+  - 
+  - 
+  -
+---
+accept-reality-act-deliberately.jpeg
+
+![accept-reality-act-deliberately.jpeg by Andrew Maury](/images/accept-reality-act-deliberately.jpeg)
