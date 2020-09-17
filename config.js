@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://andrewmaury.com',
+  url: 'https://rantum.dev',
   pathPrefix: '/',
-  title: 'Andrew Maury',
-  subtitle: 'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
+  title: 'rantum.dev',
+  subtitle: 'digital dwelling of andrew maury. a rantum scoot of writings, photos, links, & projects.',
   copyright: '© All rights reserved',
   disqusShortname: '',
-  postsPerPage: 15,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-25962239-1',
   useKatex: false,
   menu: [
@@ -20,13 +20,17 @@ module.exports = {
       label: 'notes to self',
       path: '/category/journal/'
     },
+    {
+      label: 'links',
+      path: '/links/'
+    },
 
 
   ],
   author: {
-    name: 'Andrew Maury',
+    name: 'rantum.dev',
     photo: '/andrew-maury.jpg',
-    bio:'digital developer. cynical optimist in technology advances. nantucketer on a rantum scoot. 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
+    bio:'digital dwelling of andrew maury. a rantum scoot of writings, photos, links, & projects 📚 🎿 🚲 🎾 ⚾ ⛰ 📝',
     contacts: {
       email: 'andrew.maury@',
       facebook: '',

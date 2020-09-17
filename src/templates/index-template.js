@@ -29,7 +29,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const featuredEdges = data.featuredposts.edges;
-  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle + " // digital developer // 📚 🎿 🚲 🎾 ⚾ ⛰ 📝 ";
+  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle + ' | ' + siteSubtitle;
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
@@ -41,7 +41,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
       }
       <Sidebar isIndex />
       <Page>
-        <Feed edges={featuredEdges} />
+      
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}

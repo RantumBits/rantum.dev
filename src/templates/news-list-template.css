@@ -1,0 +1,8 @@
+.newsContainer {
+  display: grid;
+  align-content: center;
+  grid-template-columns: auto ; /* 1 columns*/
+  grid-gap: 1rem;
+  padding: 1rem;  
+  width: 100%;
+}
