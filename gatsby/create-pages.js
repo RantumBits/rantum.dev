@@ -39,6 +39,12 @@ const createPages = async ({ graphql, actions }) => {
     path: '/links',
     component: path.resolve('./src/templates/news-list-template.js')
   });
+  
+  // County Data Page
+  createPage({
+    path: '/projects/county-data',
+    component: path.resolve('./src/templates/countydata-template.js')
+  });
 
   // Posts and pages from markdown
   const result = await graphql(`

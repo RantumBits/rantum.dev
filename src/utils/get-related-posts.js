@@ -1,14 +1,12 @@
 // @flow strict
 import { includes, orderBy } from 'lodash'
 
-const getRelatedPosts = (currentPost, allPosts) => {
+const getRelatedPostsInternal = (currentId, currentCatetory,currentTags, allPosts) => {
 
     const maxPosts = 3;
-    const currentCatetory = currentPost.frontmatter.category || "";
-    const currentTags = currentPost.frontmatter.tags || [];
 
     // Don't include the current post in posts list
-    allPosts = allPosts.filter((post) => post.node.id !== currentPost.id);
+    allPosts = allPosts.filter((post) => post.node.id !== currentId);
 
     const identityMap = {};
 
@@ -51,6 +49,22 @@ const getRelatedPosts = (currentPost, allPosts) => {
     //console.log(similarPosts.splice(0, maxPosts))
     // return the max number posts requested
     return similarPosts.splice(0, maxPosts);
+};
+
+export const getRelatedPosts = (currentPost, allPosts) => {
+
+    const currentCatetory = currentPost.frontmatter.category || "";
+    const currentTags = currentPost.frontmatter.tags || [];
+  
+    return getRelatedPostsInternal(currentPost.id, currentCatetory,currentTags, allPosts)
+
+};
+
+export const getRelatedPostsForLinks = (newsid, currentTags, allPosts) => {
+
+    const currentCatetory = "";
+    return getRelatedPostsInternal(newsid, currentCatetory,currentTags, allPosts)
+
 };
 
 export default getRelatedPosts;

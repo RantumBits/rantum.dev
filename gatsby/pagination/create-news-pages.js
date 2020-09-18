@@ -8,12 +8,18 @@ module.exports = async (graphql, actions) => {
 
 	const result = await graphql(`
     {
-			allGoogleSheetLinksRow {
+			allGoogleSheetLinksRow(sort: {fields: dateadded, order: DESC}) {
 				edges {
 					node {
 						id
 						articleid
 						title
+					}
+					next {
+						articleid
+					}
+					previous {
+						articleid
 					}
 				}
 			}
@@ -23,13 +29,14 @@ module.exports = async (graphql, actions) => {
 	const { createPage } = actions;
   const { postsPerPage } = siteConfig;
 	
-	_.each(result.data.allGoogleSheetLinksRow.edges, ({node}) => {
-		//console.log("****** articleid ",node.articleid)
+	_.each(result.data.allGoogleSheetLinksRow.edges, ({node, next, previous}) => {
 		createPage({
-      path: `/news/${node.articleid}`,
+      path: `/links/${node.articleid}`,
       component: path.resolve('./src/templates/news-template.js'),
       context: {
         id: node.id,
+				nextid: next?next.articleid:null,
+				previousid: previous?previous.articleid:null
       }
     });
 	})

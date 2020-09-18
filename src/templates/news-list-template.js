@@ -18,9 +18,9 @@ const NewsListTemplate = () => {
       <Page title="Links">
           <div className="newsContainer">
               {allNews && allNews.map(({ node }, index) => (
-                  <div>
+                  <div key={index}>
                       <img src={'https://source.unsplash.com/1600x900/?abstract.'+ node.articleid} alt={node.title} />
-                      <Link to={`/news/${node.articleid}`}>
+                      <Link to={`/links/${node.articleid}`}>
                           {node.title && <h3>{node.title}</h3>}
                       </Link>
                       <div>{node.comment}</div>
