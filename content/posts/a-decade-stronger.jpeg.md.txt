@@ -1,0 +1,18 @@
+---
+template: post
+title: a-decade-stronger.jpeg
+slug: a-decade-stronger.jpeg
+draft: true
+date: 2020-09-18T07:57:58-07:00
+image: /images/a-decade-stronger.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: a-decade-stronger.jpeg
+tags:
+  - 
+  - 
+  -
+---
+a-decade-stronger.jpeg
+
+![a-decade-stronger.jpeg by Andrew Maury](/images/a-decade-stronger.jpeg)
