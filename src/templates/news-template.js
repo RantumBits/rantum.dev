@@ -4,12 +4,12 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
-import RelatedPosts from '../components/RelatedPosts';
-import { useSiteMetadata, usePostsList } from '../hooks';
+import RelatedNews from '../components/RelatedNews';
+import { useSiteMetadata, useNewsList } from '../hooks';
+import _ from 'lodash';
 
 const NewsTemplate = ({ data, pageContext }) => {
-  console.log("***** pageContext ", pageContext)
-  const allPostEdges = usePostsList();
+  const allNewsEdges = useNewsList();
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
   const { title, excerpt, articleid, author, source,text, dateadded, highlight, highlight2, url, tags,image,  comment, keywords, publishdate, extractedkeywords } = data.news;
   const metaDescription = excerpt !== null ? excerpt : siteSubtitle;
@@ -47,7 +47,7 @@ const NewsTemplate = ({ data, pageContext }) => {
               </Link>
           )}
       </div>  
-      <RelatedPosts news={data.news} allTags={alltags} allPosts={allPostEdges}/>
+      <RelatedNews news={data.news} allTags={alltags} allNews={allNewsEdges}/>
       </Page>      
     </Layout>
   );

@@ -13,29 +13,65 @@ const CountyDataTemplate = () => {
   const { title, subtitle } = useSiteMetadata();
   const allCountyData = useCountyDataList();
   const [selectedCountyLineData, setSelectedCountyLineData] = React.useState();
-  
+
   const allCounties = allCountyData.map(({node}) => node.county);
   //console.log("**** allCounties ",allCounties)
-  
+
   const handleChange = (event) => {
     if(event.target.value==null || event.target.value.length<=0) return;
     //this.setState({value: event.target.value});
     console.log("**** event.target.value ",event.target.value)
     let countyData = _.find(allCountyData, ({node}) => node.county==event.target.value)
     console.log("****** countyData ",countyData);
-    
+
     const lineChartData = {
       labels: [countyData.node.date],
-      datasets: [        
+      datasets: [
         {
-          name: 'case_rate',
+          name: 'case rate',
           type: 'line',
-          values: [countyData.node.caseratetier2, countyData.node.caseratetier3,countyData.node.caseratetier4]
+          values: [countyData.node.caserate]
+        },
+        {
+          name: 'positivity rate',
+          type: 'line',
+          values: [countyData.node.positiverate]
         }
+      ],
+      yMarkers: [
+      {
+          label: "CaseRate Tier 2",
+          value: [countyData.node.caseratetier2]
+      },
+      {
+          label: "CaseRate Tier 3",
+          value: [countyData.node.caseratetier3]
+      },
+      {
+          label: "CaseRate Tier 4",
+          value: [countyData.node.caseratetier4]
+      },
+
+      {
+          label: "PositiveRate Tier 2",
+          value: [countyData.node.positiveratetier2],
+          options: { labelPos: "left" }
+      },
+      {
+          label: "PositiveRate Tier 3",
+          value: [countyData.node.positiveratetier3],
+          options: { labelPos: "left" }
+      },
+      {
+          label: "PositiveRate Tier 4",
+          value: [countyData.node.positiveratetier4],
+          options: { labelPos: "left" }
+      }
+
       ]
     };
     console.log("**** linechartdata ",lineChartData)
-    
+
     setSelectedCountyLineData(lineChartData);
   }
 
@@ -44,7 +80,7 @@ const CountyDataTemplate = () => {
       <Sidebar />
       <Page title="County Data">
           <div>
-            Select County : 
+            Select County :
             {allCounties && allCounties.length>0 &&
               <label className='Form--Label has-arrow' style={{width:'33%'}}>
                 <select className="Form--Input Form--Select" onChange={handleChange}>
@@ -59,9 +95,8 @@ const CountyDataTemplate = () => {
           {selectedCountyLineData &&
             <ReactFrappeChart
                 type="axis-mixed"
-                colors={"purple","light-blue"}
+                colors={["blue","light-blue"]}
                 height={250}
-                axisOptions={{ xAxisMode: "tick", xIsSeries: 1 }}
                 data={selectedCountyLineData}
             />
           }
