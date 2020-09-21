@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://rantum.dev',
   pathPrefix: '/',
   title: 'rantum.dev',
-  subtitle: 'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop',
-  copyright: '© All rights reserved',
+  subtitle: 'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop.',
+  copyright: '--> keep going...',
   disqusShortname: '',
   postsPerPage: 10,
   googleAnalyticsId: 'UA-25962239-1',
@@ -30,7 +30,7 @@ module.exports = {
   author: {
     name: 'rantum.dev',
     photo: '/media/rantum_dev.png',
-    bio:'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop. writings, photos, links, & projects. 🌊🎿📚🚲⚾⛰🎾📝',
+    bio:'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop. 🌊🎿📚🚲⚾⛰🎾📝 ',
     contacts: {
       email: 'andrew.maury@',
       facebook: '',

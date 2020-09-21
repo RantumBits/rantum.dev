@@ -48,7 +48,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   <a href="/?new"><img src={'https://source.unsplash.com/800x300/?abstract.'+ Math.random()} alt={pageTitle} width={"800"} height={"300"}/></a>
 
-  <p>{siteSubtitle} <br/>📚 🎿 🚲 🎾 ⚾ ⛰ 📝</p>
+  <p>{siteSubtitle} <br/>🌊🎿📚🚲⚾⛰🎾📝</p>
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
