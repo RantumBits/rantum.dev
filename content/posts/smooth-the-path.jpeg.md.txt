@@ -1,0 +1,18 @@
+---
+template: post
+title: smooth-the-path.jpeg
+slug: smooth-the-path.jpeg
+draft: true
+date: 2020-09-19T12:35:41-07:00
+image: /images/smooth-the-path.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: smooth-the-path.jpeg
+tags:
+  - 
+  - 
+  -
+---
+smooth-the-path.jpeg
+
+![smooth-the-path.jpeg by Andrew Maury](/images/smooth-the-path.jpeg)
