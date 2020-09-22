@@ -13,66 +13,100 @@ const CountyDataTemplate = () => {
   const { title, subtitle } = useSiteMetadata();
   const allCountyData = useCountyDataList();
   const [selectedCountyLineData, setSelectedCountyLineData] = React.useState();
+  const [selectedCountyPercentData, setSelectedCountyPercentData] = React.useState();
 
   const allCounties = allCountyData.map(({node}) => node.county);
   //console.log("**** allCounties ",allCounties)
 
   const handleChange = (event) => {
-    if(event.target.value==null || event.target.value.length<=0) return;
-    //this.setState({value: event.target.value});
-    console.log("**** event.target.value ",event.target.value)
-    let countyData = _.find(allCountyData, ({node}) => node.county==event.target.value)
+    if(event.target.value==null || event.target.value.length<=0) {
+      setSelectedCountyLineData(null);
+      setSelectedCountyPercentData(null)
+      return;
+    }
+    console.log("**** event.target.value'"+event.target.value+"'")
+    let countyData = _.filter(allCountyData, ({node}) => node.county && node.county.indexOf(event.target.value)>=0)
     console.log("****** countyData ",countyData);
+    
+    if(!countyData || countyData.length<=0) { // if not county data found then reset the chart
+      setSelectedCountyLineData(null);
+      setSelectedCountyPercentData(null);
+      return;
+    }
 
     const lineChartData = {
-      labels: [countyData.node.date],
+      labels: countyData.map(({node}) => node.date),
       datasets: [
         {
           name: 'case rate',
           type: 'line',
-          values: [countyData.node.caserate]
+          values: countyData.map(({node}) => node.caserate),
         },
         {
           name: 'positivity rate',
           type: 'line',
-          values: [countyData.node.positiverate]
+          values: countyData.map(({node}) => node.positiverate),
         }
       ],
       yMarkers: [
       {
           label: "CaseRate Tier 2",
-          value: [countyData.node.caseratetier2]
+          value: countyData[0].node.caseratetier2
       },
       {
           label: "CaseRate Tier 3",
-          value: [countyData.node.caseratetier3]
+          value: countyData[0].node.caseratetier3
       },
       {
           label: "CaseRate Tier 4",
-          value: [countyData.node.caseratetier4]
+          value: countyData[0].node.caseratetier4
       },
 
       {
           label: "PositiveRate Tier 2",
-          value: [countyData.node.positiveratetier2],
+          value: countyData[0].node.positiveratetier2,
           options: { labelPos: "left" }
       },
       {
           label: "PositiveRate Tier 3",
-          value: [countyData.node.positiveratetier3],
+          value: countyData[0].node.positiveratetier3,
           options: { labelPos: "left" }
       },
       {
           label: "PositiveRate Tier 4",
-          value: [countyData.node.positiveratetier4],
+          value: countyData[0].node.positiveratetier4,
           options: { labelPos: "left" }
       }
 
       ]
     };
-    console.log("**** linechartdata ",lineChartData)
-
+    
+    //console.log("***** lineChartData ",lineChartData)
     setSelectedCountyLineData(lineChartData);
+    
+    const sortedCountyData = _.sortBy(countyData, ({node}) => -(new Date(node.date)))
+    
+    const recentWeekCountyData = sortedCountyData[0].node;
+    const percentChartData = {
+      labels: [
+        "postive_weeks", 
+        "negative_weeks",
+        "eq: 3-[postive_weeks + negative_weeks]"
+      ],
+      datasets: [
+        {
+          name: 'positive_week',
+          values: [recentWeekCountyData.positiverate, recentWeekCountyData.caserate, 3-(recentWeekCountyData.positiverate+recentWeekCountyData.caserate)],
+        },
+        {
+          name: 'negative_week',
+          values: [recentWeekCountyData.positiverate, recentWeekCountyData.caserate, 3-(recentWeekCountyData.positiverate+recentWeekCountyData.caserate)],
+        }
+      ],      
+    };
+    
+    //console.log("***** percentChartData ",percentChartData)
+    setSelectedCountyPercentData(percentChartData);
   }
 
   return (
@@ -98,6 +132,15 @@ const CountyDataTemplate = () => {
                 colors={["blue","light-blue"]}
                 height={250}
                 data={selectedCountyLineData}
+            />
+          }
+
+          {selectedCountyPercentData &&
+            <ReactFrappeChart
+                type="percentage"
+                colors={["green","red","grey"]}
+                height={250}
+                data={selectedCountyPercentData}
             />
           }
       </Page>
