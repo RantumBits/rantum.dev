@@ -22,6 +22,8 @@ const useCountyDataList = () => {
               prelimtier
               prevtier
               tier
+              positiveweeks
+              negativeweeks
             }
           }
         }

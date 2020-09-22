@@ -24,9 +24,9 @@ const CountyDataTemplate = () => {
       setSelectedCountyPercentData(null)
       return;
     }
-    console.log("**** event.target.value'"+event.target.value+"'")
+    //console.log("**** event.target.value'"+event.target.value+"'")
     let countyData = _.filter(allCountyData, ({node}) => node.county && node.county.indexOf(event.target.value)>=0)
-    console.log("****** countyData ",countyData);
+    //console.log("****** countyData ",countyData);
     
     if(!countyData || countyData.length<=0) { // if not county data found then reset the chart
       setSelectedCountyLineData(null);
@@ -87,6 +87,12 @@ const CountyDataTemplate = () => {
     const sortedCountyData = _.sortBy(countyData, ({node}) => -(new Date(node.date)))
     
     const recentWeekCountyData = sortedCountyData[0].node;
+    console.log("recentWeekCountyData",recentWeekCountyData)
+    let positiveweeks = parseInt(recentWeekCountyData.positiveweeks)
+    if (isNaN(positiveweeks)) positiveweeks = 0
+    let negativeweeks = parseInt(recentWeekCountyData.negativeweeks)
+    if (isNaN(negativeweeks)) negativeweeks = 0
+    
     const percentChartData = {
       labels: [
         "postive_weeks", 
@@ -96,11 +102,8 @@ const CountyDataTemplate = () => {
       datasets: [
         {
           name: 'positive_week',
-          values: [recentWeekCountyData.positiverate, recentWeekCountyData.caserate, 3-(recentWeekCountyData.positiverate+recentWeekCountyData.caserate)],
-        },
-        {
-          name: 'negative_week',
-          values: [recentWeekCountyData.positiverate, recentWeekCountyData.caserate, 3-(recentWeekCountyData.positiverate+recentWeekCountyData.caserate)],
+          type: 'percent',
+          values: [positiveweeks, negativeweeks, 3-(positiveweeks+negativeweeks)],
         }
       ],      
     };
@@ -140,6 +143,7 @@ const CountyDataTemplate = () => {
                 type="percentage"
                 colors={["green","red","grey"]}
                 height={250}
+                truncateLegends={true}
                 data={selectedCountyPercentData}
             />
           }
