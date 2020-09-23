@@ -20,7 +20,7 @@ const CountyDataTemplate = () => {
   allCounties = _.uniq(allCounties)
   allCounties = _.orderBy(allCounties)
   //console.log("**** allCounties ",allCounties)
-  
+
   const handleChange = (event) => {
     if(event.target.value==null || event.target.value.length<=0) {
       setSelectedCountyLineData(null);
@@ -30,7 +30,7 @@ const CountyDataTemplate = () => {
     }
     //console.log("**** event.target.value'"+event.target.value+"'")
     let countyData = _.filter(allCountyData, ({node}) => node.county && node.county.indexOf(event.target.value)>=0)
-    console.log("****** countyData ",countyData);    
+    console.log("****** countyData ",countyData);
 
     if(!countyData || countyData.length<=0) { // if not county data found then reset the chart
       setSelectedCountyLineData(null);
@@ -55,21 +55,24 @@ setSelectedCountyBarData(barChartData);
     const lineChartData = {
       labels: countyData.map(({node}) => node.date),
       datasets: [
+      {
+        name: 'tier',
+        chartType: 'bar',
+        values: countyData.map(({node}) => node.tier),
+      },
         {
           name: 'case rate',
           chartType: 'line',
           values: countyData.map(({node}) => node.caserate?node.caserate.toFixed(2):0),
         },
+
         {
           name: 'positivity rate',
           chartType: 'line',
           values: countyData.map(({node}) => node.positiverate?node.positiverate.toFixed(2):0),
-        },
-        {
-          name: 'tier',
-          chartType: 'bar',
-          values: countyData.map(({node}) => node.tier),
         }
+
+
 
 
       ],
@@ -85,6 +88,11 @@ setSelectedCountyBarData(barChartData);
       {
           label: "CaseRate Tier 4",
           value: countyData[0].node.caseratetier4
+      },
+
+      {
+          label: "",
+          value: "0"
       },
 
       {
@@ -135,7 +143,7 @@ setSelectedCountyBarData(barChartData);
 
     //console.log("***** percentChartData ",percentChartData)
     setSelectedCountyPercentData(percentChartData);
-    
+
   }
 
   return (
@@ -160,9 +168,11 @@ setSelectedCountyBarData(barChartData);
           {selectedCountyLineData &&
             <ReactFrappeChart
                 type="axis-mixed"
-                colors={["blue","light-blue", "#fff"]}
+                colors={["grey","light-blue", "blue"]}
                 height={350}
                 data={selectedCountyLineData}
+
+
             />
           }
 
@@ -170,11 +180,11 @@ setSelectedCountyBarData(barChartData);
 
             <ReactFrappeChart
               title="Progress towards new tier"
-                type="percentage"
+                type="donut"
                 colors={["green","red","grey"]}
                 height={250}
                 truncateLegends={true}
-                data={selectedCountyPercentData}                
+                data={selectedCountyPercentData}
             />
           }
       </Page>
