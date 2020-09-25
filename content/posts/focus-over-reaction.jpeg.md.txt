@@ -1,0 +1,18 @@
+---
+template: post
+title: focus-over-reaction.jpeg
+slug: focus-over-reaction.jpeg
+draft: true
+date: 2020-09-23T10:38:10-07:00
+image: /images/focus-over-reaction.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: focus-over-reaction.jpeg
+tags:
+  - 
+  - 
+  -
+---
+focus-over-reaction.jpeg
+
+![focus-over-reaction.jpeg by Andrew Maury](/images/focus-over-reaction.jpeg)

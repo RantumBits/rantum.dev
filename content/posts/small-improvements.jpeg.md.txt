@@ -1,0 +1,18 @@
+---
+template: post
+title: small-improvements.jpeg
+slug: small-improvements.jpeg
+draft: true
+date: 2020-09-22T09:11:12-07:00
+image: /images/small-improvements.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: small-improvements.jpeg
+tags:
+  - 
+  - 
+  -
+---
+small-improvements.jpeg
+
+![small-improvements.jpeg by Andrew Maury](/images/small-improvements.jpeg)
