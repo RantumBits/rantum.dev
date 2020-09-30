@@ -4991,6 +4991,11 @@ codecov@^3.7.1:
     teeny-request "6.0.1"
     urlgrey "0.4.4"
 
+codemirror@^5.58.1:
+  version "5.58.1"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.58.1.tgz#ec6bf38ad2a17f74c61bd00cc6dc5a69bd167854"
+  integrity sha512-UGb/ueu20U4xqWk8hZB3xIfV2/SFqnSLYONiM3wTMDqko0bsYrsAkGGhqUzbRkYm89aBKPyHtuNEbVWF9FTFzw==
+
 collapse-white-space@^1.0.0, collapse-white-space@^1.0.2:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/collapse-white-space/-/collapse-white-space-1.0.6.tgz#e63629c0016665792060dbbeb79c42239d2c5287"
@@ -8223,7 +8228,7 @@ gatsby-plugin-manifest@^2.4.18:
     semver "^7.3.2"
     sharp "^0.25.4"
 
-gatsby-plugin-netlify-cms@^4.3.11:
+gatsby-plugin-netlify-cms@^4.3.15:
   version "4.3.15"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.3.15.tgz#d6750c91cd902665b15572e87096568d4953ebb4"
   integrity sha512-rMKz7HgIuOahHmXf0AOZ59DAoxWffdv3/FNR51+9QCLBPigEPneiYZnW88UStA+Zf413F70MDz6kVYhHIhUMPQ==
@@ -8503,7 +8508,7 @@ gatsby-remark-images@^3.3.19:
     unist-util-select "^1.5.0"
     unist-util-visit-parents "^2.1.2"
 
-gatsby-remark-katex@^3.3.10:
+gatsby-remark-katex@^3.3.13:
   version "3.3.13"
   resolved "https://registry.yarnpkg.com/gatsby-remark-katex/-/gatsby-remark-katex-3.3.13.tgz#663d747d5c78190f2874a19f66ebf9fe022038e1"
   integrity sha512-7cZW9UTWcPK4SKSrUgrNv452QQ2wJZQCwJQUEU3lUMXDfigBgh+nxFW3w10rwmvy3TZTqsB1vgYYIEqrS3iDnw==
@@ -10271,6 +10276,11 @@ immutable@^3.7.6:
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
   integrity sha1-wkOZUUVbs5kT2vKBN28VMOEErfM=
 
+immutable@^4.0.0-rc.12:
+  version "4.0.0-rc.12"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.12.tgz#ca59a7e4c19ae8d9bf74a97bdf0f6e2f2a5d0217"
+  integrity sha512-0M2XxkZLx/mi3t8NVwIm1g8nHoEmM9p9UBl/G9k4+hm0kBgOVdMV/B3CY5dQ8qG8qc80NN4gDV4HQv6FTJ5q7A==
+
 import-cwd@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
@@ -11846,10 +11856,10 @@ jwt-decode@^2.1.0, jwt-decode@^2.2.0:
   resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-2.2.0.tgz#7d86bd56679f58ce6a84704a657dd392bba81a79"
   integrity sha1-fYa9VmefWM5qhHBKZX3TkruoGnk=
 
-katex@^0.11.1:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/katex/-/katex-0.11.1.tgz#df30ca40c565c9df01a466a00d53e079e84ffaa2"
-  integrity sha512-5oANDICCTX0NqYIyAiFCCwjQ7ERu3DQG2JFHLbYOf+fXaMoH8eg/zOq5WSYJsKMi/QebW+Eh3gSM+oss1H/bww==
+katex@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.12.0.tgz#2fb1c665dbd2b043edcf8a1f5c555f46beaa0cb9"
+  integrity sha512-y+8btoc/CK70XqcHqjxiGWBOeIL8upbS0peTPXTvgrh21n1RiWWcIpSWM+4uXq+IAgNh9YYQWdc7LVDPDAEEAg==
   dependencies:
     commander "^2.19.0"
 
@@ -13141,7 +13151,7 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-netlify-cms-app@^2.12.18:
+netlify-cms-app@^2.12.25:
   version "2.12.25"
   resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.12.25.tgz#0e2ab71f40fe78ce56f21e35eb08d95178786a46"
   integrity sha512-wQcPFopz1g+GaZhYmGTNi59aZmIAN2WB2R6EIwRBlpQJ1Xr1ozRmNaZ+FagbMCFhbmadoY4MXC4Hbq0iC+P7yQ==
@@ -13298,6 +13308,11 @@ netlify-cms-lib-util@^2.11.5:
     js-sha256 "^0.9.0"
     localforage "^1.7.3"
     semaphore "^1.1.0"
+
+netlify-cms-lib-widgets@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/netlify-cms-lib-widgets/-/netlify-cms-lib-widgets-1.4.0.tgz#82bf3dc2da1df4b15875a3fc2d7f62f2b1899b9a"
+  integrity sha512-RO4oM0liLjHuKANyrjaRxcApKs4wQX88BW4mu8cWy8Th6nXN5rMr28zADNF+d4CopUrNjQ1pCvYtWRyGFoObOg==
 
 netlify-cms-locales@^1.18.1:
   version "1.18.1"
@@ -15926,7 +15941,7 @@ react-router-dom@^5.2.0:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-router@5.2.0:
+react-router@5.2.0, react-router@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/react-router/-/react-router-5.2.0.tgz#424e75641ca8747fbf76e5ecca69781aa37ea293"
   integrity sha512-smz1DUuFHRKdcJC0jobGo8cVbhO3x50tCL4icacOlcwDOEQPq4TMqwx3sY1TP+DvtTgz4nm3thuo7A+BK2U0Dw==
@@ -16444,6 +16459,11 @@ remark-math@^1.0.6:
   dependencies:
     trim-trailing-lines "^1.1.0"
 
+remark-math@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/remark-math/-/remark-math-3.0.1.tgz#85a02a15b15cad34b89a27244d4887b3a95185bb"
+  integrity sha512-epT77R/HK0x7NqrWHdSV75uNLwn8g9qTyMqCRCDujL0vj/6T6+yhdrR7mjELWtkse+Fw02kijAaBuVcHBor1+Q==
+
 remark-mdx@^2.0.0-next.4, remark-mdx@^2.0.0-next.8:
   version "2.0.0-next.8"
   resolved "https://registry.yarnpkg.com/remark-mdx/-/remark-mdx-2.0.0-next.8.tgz#db1c3cbc606ea0d01526242199bb134d99020363"
@@ -16522,6 +16542,28 @@ remark-parse@^6.0.0, remark-parse@^6.0.3:
     unherit "^1.0.4"
     unist-util-remove-position "^1.0.0"
     vfile-location "^2.0.0"
+    xtend "^4.0.1"
+
+remark-parse@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-8.0.3.tgz#9c62aa3b35b79a486454c690472906075f40c7e1"
+  integrity sha512-E1K9+QLGgggHxCQtLt++uXltxEprmWzNfg+MxpfHsZlrddKzZ/hZyWHDbK3/Ap8HJQqYJRXP+jHczdL6q6i85Q==
+  dependencies:
+    ccount "^1.0.0"
+    collapse-white-space "^1.0.2"
+    is-alphabetical "^1.0.0"
+    is-decimal "^1.0.0"
+    is-whitespace-character "^1.0.0"
+    is-word-character "^1.0.0"
+    markdown-escapes "^1.0.0"
+    parse-entities "^2.0.0"
+    repeat-string "^1.5.4"
+    state-toggle "^1.0.0"
+    trim "0.0.1"
+    trim-trailing-lines "^1.0.0"
+    unherit "^1.0.4"
+    unist-util-remove-position "^2.0.0"
+    vfile-location "^3.0.0"
     xtend "^4.0.1"
 
 remark-rehype@^4.0.0:
@@ -17131,6 +17173,11 @@ scss-tokenizer@^0.2.3:
   dependencies:
     js-base64 "^2.1.8"
     source-map "^0.4.2"
+
+seamless-immutable@^7.1.4:
+  version "7.1.4"
+  resolved "https://registry.yarnpkg.com/seamless-immutable/-/seamless-immutable-7.1.4.tgz#6e9536def083ddc4dea0207d722e0e80d0f372f8"
+  integrity sha512-XiUO1QP4ki4E2PHegiGAlu6r82o5A+6tRh7IkGGTVg/h+UoeX4nFBeCGPOhb4CYjvkqsfm/TUtvOMYC1xmV30A==
 
 section-matter@^1.0.0:
   version "1.0.0"
@@ -19127,6 +19174,11 @@ typescript@^3.4:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
+
+typescript@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.3.tgz#153bbd468ef07725c1df9c77e8b453f8d36abba5"
+  integrity sha512-tEu6DGxGgRJPb/mVPIZ48e69xCn2yRmCgYmDugAVwmJ6o+0u1RI18eO7E7WBTLYLaEVVOhwQmcdhQHweux/WPg==
 
 ua-parser-js@^0.7.18:
   version "0.7.22"
