@@ -1,0 +1,18 @@
+---
+template: post
+title: internalizing-virtues.jpeg
+slug: internalizing-virtues.jpeg
+draft: true
+date: 2020-10-03T15:25:45-07:00
+image: /images/internalizing-virtues.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: internalizing-virtues.jpeg
+tags:
+  - 
+  - 
+  -
+---
+internalizing-virtues.jpeg
+
+![internalizing-virtues.jpeg by Andrew Maury](/images/internalizing-virtues.jpeg)

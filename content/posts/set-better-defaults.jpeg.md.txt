@@ -1,0 +1,18 @@
+---
+template: post
+title: set-better-defaults.jpeg
+slug: set-better-defaults.jpeg
+draft: true
+date: 2020-09-28T07:14:39-07:00
+image: /images/set-better-defaults.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: set-better-defaults.jpeg
+tags:
+  - 
+  - 
+  -
+---
+set-better-defaults.jpeg
+
+![set-better-defaults.jpeg by Andrew Maury](/images/set-better-defaults.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: short-term-bursts.jpeg
+slug: short-term-bursts.jpeg
+draft: true
+date: 2020-10-07T09:22:29-07:00
+image: /images/short-term-bursts.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: short-term-bursts.jpeg
+tags:
+  - 
+  - 
+  -
+---
+short-term-bursts.jpeg
+
+![short-term-bursts.jpeg by Andrew Maury](/images/short-term-bursts.jpeg)

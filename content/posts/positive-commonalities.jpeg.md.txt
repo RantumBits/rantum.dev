@@ -1,0 +1,18 @@
+---
+template: post
+title: positive-commonalities.jpeg
+slug: positive-commonalities.jpeg
+draft: true
+date: 2020-09-30T08:55:37-07:00
+image: /images/positive-commonalities.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: positive-commonalities.jpeg
+tags:
+  - 
+  - 
+  -
+---
+positive-commonalities.jpeg
+
+![positive-commonalities.jpeg by Andrew Maury](/images/positive-commonalities.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: declutter-diligence.jpeg
+slug: declutter-diligence.jpeg
+draft: true
+date: 2020-10-09T11:32:50-07:00
+image: /images/declutter-diligence.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: declutter-diligence.jpeg
+tags:
+  - 
+  - 
+  -
+---
+declutter-diligence.jpeg
+
+![declutter-diligence.jpeg by Andrew Maury](/images/declutter-diligence.jpeg)

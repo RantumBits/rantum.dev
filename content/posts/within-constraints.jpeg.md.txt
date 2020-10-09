@@ -1,0 +1,18 @@
+---
+template: post
+title: within-constraints.jpeg
+slug: within-constraints.jpeg
+draft: true
+date: 2020-09-27T10:40:11-07:00
+image: /images/within-constraints.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: within-constraints.jpeg
+tags:
+  - 
+  - 
+  -
+---
+within-constraints.jpeg
+
+![within-constraints.jpeg by Andrew Maury](/images/within-constraints.jpeg)

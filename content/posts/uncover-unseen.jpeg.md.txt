@@ -1,0 +1,18 @@
+---
+template: post
+title: uncover-unseen.jpeg
+slug: uncover-unseen.jpeg
+draft: true
+date: 2020-09-29T08:57:35-07:00
+image: /images/uncover-unseen.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: uncover-unseen.jpeg
+tags:
+  - 
+  - 
+  -
+---
+uncover-unseen.jpeg
+
+![uncover-unseen.jpeg by Andrew Maury](/images/uncover-unseen.jpeg)

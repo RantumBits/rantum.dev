@@ -1,0 +1,18 @@
+---
+template: post
+title: adaptable-routines.jpeg
+slug: adaptable-routines.jpeg
+draft: true
+date: 2020-09-26T09:57:17-07:00
+image: /images/adaptable-routines.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: adaptable-routines.jpeg
+tags:
+  - 
+  - 
+  -
+---
+adaptable-routines.jpeg
+
+![adaptable-routines.jpeg by Andrew Maury](/images/adaptable-routines.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: balanced-building.jpeg
+slug: balanced-building.jpeg
+draft: true
+date: 2020-09-24T08:12:00-07:00
+image: /images/balanced-building.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: balanced-building.jpeg
+tags:
+  - 
+  - 
+  -
+---
+balanced-building.jpeg
+
+![balanced-building.jpeg by Andrew Maury](/images/balanced-building.jpeg)

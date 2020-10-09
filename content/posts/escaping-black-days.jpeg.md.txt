@@ -1,0 +1,18 @@
+---
+template: post
+title: escaping-black-days.jpeg
+slug: escaping-black-days.jpeg
+draft: true
+date: 2020-10-06T08:12:52-07:00
+image: /images/escaping-black-days.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: escaping-black-days.jpeg
+tags:
+  - 
+  - 
+  -
+---
+escaping-black-days.jpeg
+
+![escaping-black-days.jpeg by Andrew Maury](/images/escaping-black-days.jpeg)
