@@ -147,9 +147,9 @@ setSelectedCountyBarData(barChartData);
   }
 
   return (
-    <Layout title={`California County Data - ${title}`} description={subtitle}>
+    <Layout title={`California County Coronavirus Charts - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title="California County Data">
+      <Page title="California County Cornavirus Charts"  description="California cornavirus data includidng positivity rates, case rates, and tiers tracked over time by county">
           <div>
             Select County :
             {allCounties && allCounties.length>0 &&

@@ -1,0 +1,18 @@
+---
+template: post
+title: momentary-perspective-shifts.jpeg
+slug: momentary-perspective-shifts.jpeg
+draft: true
+date: 2020-10-12T08:55:03-07:00
+image: /images/momentary-perspective-shifts.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: momentary-perspective-shifts.jpeg
+tags:
+  - 
+  - 
+  -
+---
+momentary-perspective-shifts.jpeg
+
+![momentary-perspective-shifts.jpeg by Andrew Maury](/images/momentary-perspective-shifts.jpeg)

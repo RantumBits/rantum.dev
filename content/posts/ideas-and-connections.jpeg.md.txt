@@ -1,0 +1,18 @@
+---
+template: post
+title: ideas-and-connections.jpeg
+slug: ideas-and-connections.jpeg
+draft: true
+date: 2020-10-13T08:04:34-07:00
+image: /images/ideas-and-connections.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: ideas-and-connections.jpeg
+tags:
+  - 
+  - 
+  -
+---
+ideas-and-connections.jpeg
+
+![ideas-and-connections.jpeg by Andrew Maury](/images/ideas-and-connections.jpeg)

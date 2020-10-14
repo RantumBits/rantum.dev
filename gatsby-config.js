@@ -39,7 +39,7 @@ module.exports = {
     options: {
       folderId: '1ElariRKvCAMZIukxNe8VmIHSPIIJo_VA',
       keyFile: `${__dirname}/client_secret.json`,
-      destination: `${__dirname}/static/media`,
+      destination: `${__dirname}/static/images`,
       exportGDocs: false,
       exportMimeType: ''
       }
