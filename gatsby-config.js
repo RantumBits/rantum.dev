@@ -245,7 +245,7 @@ module.exports = {
           }
         `,
         output: '/sitemap.xml',
-        exclude: [`/tag/*`],
+        exclude: [`/tag/*`, `*/page/*`],
         serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
           url: site.siteMetadata.siteUrl + edge.node.path,
           changefreq: 'daily',

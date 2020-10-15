@@ -39,10 +39,10 @@ const createPages = async ({ graphql, actions }) => {
     path: '/links',
     component: path.resolve('./src/templates/news-list-template.js')
   });
-  
+
   // County Data Page
   createPage({
-    path: '/projects/county-data',
+    path: '/projects/ca-county-covid-graphs',
     component: path.resolve('./src/templates/countydata-template.js')
   });
 
