@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://rantum.dev',
   pathPrefix: '/',
   title: 'rantum.dev',
-  subtitle: 'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop.',
+  subtitle: 'digital dwelling of andrew maury. digital developer @ecomloop in burlingame, ca. san matean nantucketer on a rantum scoot.',
   copyright: '--> keep going...',
   disqusShortname: '',
   postsPerPage: 10,
@@ -24,13 +24,17 @@ module.exports = {
       label: 'links',
       path: '/links/'
     },
+    {
+      label: 'links',
+      path: '/category/projects/'
+    },
 
 
   ],
   author: {
     name: 'rantum.dev',
     photo: '/media/rantum_dev.png',
-    bio:'digital dwelling of andrew maury. nantucketer on a rantum scoot. digital developer @ecomloop. 🌊🎿📚🚲⚾⛰🎾📝 ',
+    bio:'digital dwelling of andrew maury. nantucketer & san matean on a rantum scoot. digital developer @ecomloop in burlingame, california 🌊🎿📚🚲⚾⛰🎾📝 ',
     contacts: {
       email: 'andrew.maury@',
       facebook: '',
