@@ -25,7 +25,7 @@ module.exports = {
       path: '/links/'
     },
     {
-      label: 'links',
+      label: 'projects',
       path: '/category/projects/'
     },
 
