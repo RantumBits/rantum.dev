@@ -18,13 +18,13 @@ const createPages = async ({ graphql, actions }) => {
 
   // Tags list
   createPage({
-    path: '/tags',
+    path: '/tags/',
     component: path.resolve('./src/templates/tags-list-template.js')
   });
 
   // Tags list with Posts
   createPage({
-    path: '/tagsposts',
+    path: '/tagsposts/',
     component: path.resolve('./src/templates/tags-list-with-posts-template.js')
   });
 
@@ -42,7 +42,7 @@ const createPages = async ({ graphql, actions }) => {
 
   // County Data Page
   createPage({
-    path: '/projects/ca-county-covid-graphs',
+    path: '/projects/ca-county-covid-graphs/',
     component: path.resolve('./src/templates/countydata-template.js')
   });
 

@@ -1,0 +1,18 @@
+---
+template: post
+title: anticipate-likely-scenarios.jpeg
+slug: anticipate-likely-scenarios.jpeg
+draft: true
+date: 2020-10-20T09:16:18-07:00
+image: /images/anticipate-likely-scenarios.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: anticipate-likely-scenarios.jpeg
+tags:
+  - 
+  - 
+  -
+---
+anticipate-likely-scenarios.jpeg
+
+![anticipate-likely-scenarios.jpeg by Andrew Maury](/images/anticipate-likely-scenarios.jpeg)

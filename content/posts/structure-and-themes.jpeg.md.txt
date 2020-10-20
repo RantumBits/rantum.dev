@@ -1,0 +1,18 @@
+---
+template: post
+title: structure-and-themes.jpeg
+slug: structure-and-themes.jpeg
+draft: true
+date: 2020-10-17T15:15:31-07:00
+image: /images/structure-and-themes.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: structure-and-themes.jpeg
+tags:
+  - 
+  - 
+  -
+---
+structure-and-themes.jpeg
+
+![structure-and-themes.jpeg by Andrew Maury](/images/structure-and-themes.jpeg)

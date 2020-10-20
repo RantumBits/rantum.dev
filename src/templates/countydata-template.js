@@ -135,7 +135,7 @@ setSelectedCountyBarData(barChartData);
       datasets: [
         {
           name: 'positive_week',
-          type: 'percent',
+          type: 'donut',
           values: [positiveweeks, negativeweeks, 3-(positiveweeks+negativeweeks)],
         }
       ],
