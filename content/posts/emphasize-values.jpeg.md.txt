@@ -1,0 +1,18 @@
+---
+template: post
+title: emphasize-values.jpeg
+slug: emphasize-values.jpeg
+draft: true
+date: 2020-10-24T10:44:43-07:00
+image: /images/emphasize-values.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: emphasize-values.jpeg
+tags:
+  - 
+  - 
+  -
+---
+emphasize-values.jpeg
+
+![emphasize-values.jpeg by Andrew Maury](/images/emphasize-values.jpeg)

@@ -1,0 +1,18 @@
+---
+template: post
+title: finding-good-in-challenge.jpeg
+slug: finding-good-in-challenge.jpeg
+draft: true
+date: 2020-10-22T17:24:03-07:00
+image: /images/finding-good-in-challenge.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: finding-good-in-challenge.jpeg
+tags:
+  - 
+  - 
+  -
+---
+finding-good-in-challenge.jpeg
+
+![finding-good-in-challenge.jpeg by Andrew Maury](/images/finding-good-in-challenge.jpeg)

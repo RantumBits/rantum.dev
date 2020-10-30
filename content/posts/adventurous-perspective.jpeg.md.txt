@@ -1,0 +1,18 @@
+---
+template: post
+title: adventurous-perspective.jpeg
+slug: adventurous-perspective.jpeg
+draft: true
+date: 2020-10-26T07:15:42-07:00
+image: /images/adventurous-perspective.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: adventurous-perspective.jpeg
+tags:
+  - 
+  - 
+  -
+---
+adventurous-perspective.jpeg
+
+![adventurous-perspective.jpeg by Andrew Maury](/images/adventurous-perspective.jpeg)

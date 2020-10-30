@@ -1,0 +1,18 @@
+---
+template: post
+title: pathways-to-open-options.jpeg
+slug: pathways-to-open-options.jpeg
+draft: true
+date: 2020-10-28T08:33:41-07:00
+image: /images/pathways-to-open-options.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: pathways-to-open-options.jpeg
+tags:
+  - 
+  - 
+  -
+---
+pathways-to-open-options.jpeg
+
+![pathways-to-open-options.jpeg by Andrew Maury](/images/pathways-to-open-options.jpeg)

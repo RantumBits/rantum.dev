@@ -1,0 +1,18 @@
+---
+template: post
+title: set-clocks.jpeg
+slug: set-clocks.jpeg
+draft: true
+date: 2020-10-30T07:23:53-07:00
+image: /images/set-clocks.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: set-clocks.jpeg
+tags:
+  - 
+  - 
+  -
+---
+set-clocks.jpeg
+
+![set-clocks.jpeg by Andrew Maury](/images/set-clocks.jpeg)

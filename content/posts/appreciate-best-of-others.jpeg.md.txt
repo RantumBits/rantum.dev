@@ -1,0 +1,18 @@
+---
+template: post
+title: appreciate-best-of-others.jpeg
+slug: appreciate-best-of-others.jpeg
+draft: true
+date: 2020-10-27T06:48:44-07:00
+image: /images/appreciate-best-of-others.jpeg
+featuredImage: /photos/2020-XX-XX.png
+category: Journal
+description: appreciate-best-of-others.jpeg
+tags:
+  - 
+  - 
+  -
+---
+appreciate-best-of-others.jpeg
+
+![appreciate-best-of-others.jpeg by Andrew Maury](/images/appreciate-best-of-others.jpeg)
