@@ -206,7 +206,7 @@ module.exports = {
       }
     },
     'gatsby-plugin-netlify',
-    
+
     {
       resolve: 'gatsby-plugin-google-gtag',
       options: {
@@ -265,12 +265,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',
-      options: {
-
-        cssLoaderOptions: {
-          camelCase: false,
-        }
-      }
+      
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
