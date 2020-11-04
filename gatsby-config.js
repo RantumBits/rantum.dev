@@ -263,15 +263,8 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
-    {
-      resolve: 'gatsby-plugin-sass',
-      options: {
-         postCssPlugins: [...postCssPlugins()],
-        cssLoaderOptions: {
-          camelCase: false,
-        }
-      }
-    },
+'gatsby-plugin-sass'
+
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
   ]
