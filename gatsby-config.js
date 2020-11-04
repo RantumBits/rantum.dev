@@ -172,7 +172,7 @@ module.exports = {
             options: {
               maxWidth: 960,
               withWebp: true,
-              ignoreFileExtensions: [],
+              
             }
           },
           {
@@ -271,7 +271,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sass',
       options: {
-        
+
         cssLoaderOptions: {
           camelCase: false,
         }
