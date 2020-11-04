@@ -8,7 +8,7 @@ description: >-
   ecommerce consultant at [ecomloop](https://ecomloop.com). I enjoy using
   technology to make everyday lives incrementally better. Nantucket-native.
   Boston College alum. San Francisco Bay Area since 2004.
-featuredImage: /photos/2020-04-05.png
+featuredImage: '../photos/2020-04-05.png'
 category: Featured
 tags:
   - about
