@@ -76,7 +76,7 @@
     "gatsby-remark-smartypants": "^2.3.13",
     "gatsby-source-filesystem": "^2.4.0",
     "gatsby-source-google-sheets": "^1.1.1",
-    "gatsby-transformer-remark": "^2.9.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.21",
     "i": "^0.3.6",
     "immutable": "^3.8.2",
